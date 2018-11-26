@@ -1,0 +1,444 @@
+2018-05-26 11:56:53,644:__main__:WebPage Download unsuccesfully: 7949567729942413552
+2018-05-26 11:56:53,644:__main__:Traceback:
+Traceback (most recent call last):
+  File "gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-26/7949567729942413552.html'
+2018-05-28 10:53:18,781:gp_crawl:WebPage Download unsuccesfully: 7949567729942413552
+2018-05-28 10:53:18,791:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/7949567729942413552.html'
+2018-05-28 10:55:15,542:gp_crawl:WebPage Download unsuccesfully: 7949567729942413552
+2018-05-28 10:55:15,542:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/7949567729942413552.html'
+2018-05-28 10:57:21,102:gp_crawl:WebPage Download unsuccesfully: 7949567729942413552
+2018-05-28 10:57:21,102:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/7949567729942413552.html'
+2018-05-28 10:58:43,012:gp_crawl:WebPage Download unsuccesfully: 7949567729942413552
+2018-05-28 10:58:43,012:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/7949567729942413552.html'
+2018-05-28 14:45:33,321:gp_crawl:WebPage Download unsuccesfully: 7949567729942413552
+2018-05-28 14:45:33,322:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/7949567729942413552.html'
+2018-05-28 15:28:42,317:gp_crawl:WebPage Download unsuccesfully: 7949567729942413552
+2018-05-28 15:28:42,317:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/7949567729942413552.html'
+2018-05-28 15:29:23,732:__main__:WebPage Download unsuccesfully: 7949567729942413552
+2018-05-28 15:29:23,733:__main__:Traceback:
+Traceback (most recent call last):
+  File "gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/7949567729942413552.html'
+2018-05-28 15:29:56,971:gp_crawl:WebPage Download unsuccesfully: 1885151669715275099
+2018-05-28 15:29:56,971:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/1885151669715275099.html'
+2018-05-28 15:29:58,514:gp_crawl:WebPage Download unsuccesfully: 14996875053312183120
+2018-05-28 15:29:58,514:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/14996875053312183120.html'
+2018-05-28 15:30:00,101:gp_crawl:WebPage Download unsuccesfully: 4615954961213230235
+2018-05-28 15:30:00,101:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/4615954961213230235.html'
+2018-05-28 15:30:01,645:gp_crawl:WebPage Download unsuccesfully: 4356159268129788928
+2018-05-28 15:30:01,645:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/4356159268129788928.html'
+2018-05-28 15:30:02,806:gp_crawl:WebPage Download unsuccesfully: 7949567729942413552
+2018-05-28 15:30:02,806:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/7949567729942413552.html'
+2018-05-28 15:30:04,456:gp_crawl:WebPage Download unsuccesfully: 2357732847270267407
+2018-05-28 15:30:04,456:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/2357732847270267407.html'
+2018-05-28 15:30:05,940:gp_crawl:WebPage Download unsuccesfully: 18118946976997353778
+2018-05-28 15:30:05,941:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/18118946976997353778.html'
+2018-05-28 15:30:07,770:gp_crawl:WebPage Download unsuccesfully: 4135923137556733311
+2018-05-28 15:30:07,770:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/4135923137556733311.html'
+2018-05-28 15:30:09,552:gp_crawl:WebPage Download unsuccesfully: 663447381992042734
+2018-05-28 15:30:09,553:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/663447381992042734.html'
+2018-05-28 15:30:11,115:gp_crawl:WebPage Download unsuccesfully: 1206024629463146237
+2018-05-28 15:30:11,115:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/1206024629463146237.html'
+2018-05-28 15:30:12,744:gp_crawl:WebPage Download unsuccesfully: 2299039736585879831
+2018-05-28 15:30:12,744:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/2299039736585879831.html'
+2018-05-28 15:33:46,363:gp_crawl:WebPage Download unsuccesfully: 1885151669715275099
+2018-05-28 15:33:46,363:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/1885151669715275099.html'
+2018-05-28 15:33:47,903:gp_crawl:WebPage Download unsuccesfully: 14996875053312183120
+2018-05-28 15:33:47,903:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/14996875053312183120.html'
+2018-05-28 15:33:49,567:gp_crawl:WebPage Download unsuccesfully: 4615954961213230235
+2018-05-28 15:33:49,568:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/4615954961213230235.html'
+2018-05-28 15:33:51,132:gp_crawl:WebPage Download unsuccesfully: 4356159268129788928
+2018-05-28 15:33:51,132:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/4356159268129788928.html'
+2018-05-28 15:33:52,642:gp_crawl:WebPage Download unsuccesfully: 7949567729942413552
+2018-05-28 15:33:52,642:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/7949567729942413552.html'
+2018-05-28 15:33:54,111:gp_crawl:WebPage Download unsuccesfully: 2357732847270267407
+2018-05-28 15:33:54,111:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/2357732847270267407.html'
+2018-05-28 15:34:38,021:gp_crawl:WebPage Download unsuccesfully: 1885151669715275099
+2018-05-28 15:34:38,022:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/1885151669715275099.html'
+2018-05-28 15:34:39,540:gp_crawl:WebPage Download unsuccesfully: 14996875053312183120
+2018-05-28 15:34:39,540:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/14996875053312183120.html'
+2018-05-28 15:34:41,032:gp_crawl:WebPage Download unsuccesfully: 4615954961213230235
+2018-05-28 15:34:41,032:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/4615954961213230235.html'
+2018-05-28 15:34:42,806:gp_crawl:WebPage Download unsuccesfully: 4356159268129788928
+2018-05-28 15:34:42,806:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/4356159268129788928.html'
+2018-05-28 15:34:44,457:gp_crawl:WebPage Download unsuccesfully: 7949567729942413552
+2018-05-28 15:34:44,457:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/7949567729942413552.html'
+2018-05-28 15:34:45,918:gp_crawl:WebPage Download unsuccesfully: 2357732847270267407
+2018-05-28 15:34:45,918:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/2357732847270267407.html'
+2018-05-28 15:34:46,961:gp_crawl:WebPage Download unsuccesfully: 18118946976997353778
+2018-05-28 15:34:46,961:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 29, in get_web_page
+    response = urllib2.urlopen(request_url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/usr/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/lib/python2.7/urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/lib/python2.7/httplib.py", line 1136, in getresponse
+    response.begin()
+  File "/usr/lib/python2.7/httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python2.7/httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/usr/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+KeyboardInterrupt
+2018-05-28 15:34:48,720:gp_crawl:WebPage Download unsuccesfully: 4135923137556733311
+2018-05-28 15:34:48,720:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/4135923137556733311.html'
+2018-05-28 15:35:11,203:gp_crawl:WebPage Download unsuccesfully: 1885151669715275099
+2018-05-28 15:35:11,203:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/1885151669715275099.html'
+2018-05-28 15:35:12,771:gp_crawl:WebPage Download unsuccesfully: 14996875053312183120
+2018-05-28 15:35:12,771:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/14996875053312183120.html'
+2018-05-28 15:35:14,130:gp_crawl:WebPage Download unsuccesfully: 4615954961213230235
+2018-05-28 15:35:14,130:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 29, in get_web_page
+    response = urllib2.urlopen(request_url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/usr/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/lib/python2.7/urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/lib/python2.7/httplib.py", line 1136, in getresponse
+    response.begin()
+  File "/usr/lib/python2.7/httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python2.7/httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/usr/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+KeyboardInterrupt
+2018-05-28 15:35:15,887:gp_crawl:WebPage Download unsuccesfully: 4356159268129788928
+2018-05-28 15:35:15,888:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/4356159268129788928.html'
+2018-05-28 15:36:07,019:gp_crawl:WebPage Download unsuccesfully: 1885151669715275099
+2018-05-28 15:36:07,019:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 34, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/1885151669715275099.html'
+2018-05-28 15:36:08,651:gp_crawl:WebPage Download unsuccesfully: 14996875053312183120
+2018-05-28 15:36:08,651:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 34, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/14996875053312183120.html'
+2018-05-28 15:36:09,823:gp_crawl:WebPage Download unsuccesfully: 4615954961213230235
+2018-05-28 15:36:09,823:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 34, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/4615954961213230235.html'
+2018-05-28 15:36:10,964:gp_crawl:WebPage Download unsuccesfully: 4356159268129788928
+2018-05-28 15:36:10,964:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 34, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/4356159268129788928.html'
+2018-05-28 15:36:12,141:gp_crawl:WebPage Download unsuccesfully: 7949567729942413552
+2018-05-28 15:36:12,142:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 34, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/7949567729942413552.html'
+2018-05-28 15:37:12,560:gp_crawl:WebPage Download unsuccesfully: 1885151669715275099
+2018-05-28 15:37:12,561:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 36, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/1885151669715275099.html'
+2018-05-28 15:37:13,979:gp_crawl:WebPage Download unsuccesfully: 14996875053312183120
+2018-05-28 15:37:13,980:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 36, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/14996875053312183120.html'
+2018-05-28 15:37:15,259:gp_crawl:WebPage Download unsuccesfully: 4615954961213230235
+2018-05-28 15:37:15,259:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 36, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/4615954961213230235.html'
+2018-05-28 15:37:16,430:gp_crawl:WebPage Download unsuccesfully: 4356159268129788928
+2018-05-28 15:37:16,430:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 36, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/4356159268129788928.html'
+2018-05-28 15:37:17,363:gp_crawl:WebPage Download unsuccesfully: 7949567729942413552
+2018-05-28 15:37:17,364:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    response = urllib2.urlopen(request_url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/usr/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/lib/python2.7/urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/lib/python2.7/httplib.py", line 1136, in getresponse
+    response.begin()
+  File "/usr/lib/python2.7/httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python2.7/httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/usr/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+KeyboardInterrupt
+2018-05-28 15:37:54,884:gp_crawl:WebPage Download unsuccesfully: 1885151669715275099
+2018-05-28 15:37:54,885:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 37, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/1885151669715275099.html'
+2018-05-28 15:37:56,253:gp_crawl:WebPage Download unsuccesfully: 14996875053312183120
+2018-05-28 15:37:56,253:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 37, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/14996875053312183120.html'
+2018-05-28 15:37:57,511:gp_crawl:WebPage Download unsuccesfully: 4615954961213230235
+2018-05-28 15:37:57,511:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 37, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/4615954961213230235.html'
+2018-05-28 15:37:58,813:gp_crawl:WebPage Download unsuccesfully: 4356159268129788928
+2018-05-28 15:37:58,813:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 37, in get_web_page
+    with open(outfile,'w') as out:
+IOError: [Errno 2] No such file or directory: 'html/2018-05-28/4356159268129788928.html'
+2018-05-28 15:37:59,132:gp_crawl:WebPage Download unsuccesfully: 7949567729942413552
+2018-05-28 15:37:59,132:gp_crawl:Traceback:
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/gp_crawl.py", line 32, in get_web_page
+    response = urllib2.urlopen(request_url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/usr/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/lib/python2.7/urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/lib/python2.7/httplib.py", line 1136, in getresponse
+    response.begin()
+  File "/usr/lib/python2.7/httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python2.7/httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/usr/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+KeyboardInterrupt
+2018-06-01 14:33:12,441:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:33:12,470:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:33:12,681:__main__:The priceinfo for 8194 has been uploaded successfully
+2018-06-01 14:33:14,121:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:33:14,121:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:33:14,131:__main__:The priceinfo for 47271 has been uploaded successfully
+2018-06-01 14:33:15,614:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:33:15,614:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:33:15,617:__main__:There is no price info for Diesel
+2018-06-01 14:33:15,630:__main__:The priceinfo for 47275 has been uploaded successfully
+2018-06-01 14:33:17,221:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:33:17,221:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:33:17,235:__main__:The priceinfo for 47276 has been uploaded successfully
+2018-06-01 14:33:18,616:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:33:18,616:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:33:18,628:__main__:The priceinfo for 5532 has been uploaded successfully
+2018-06-01 14:33:19,928:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:33:19,928:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:33:19,929:__main__:There is no price info for Diesel
+2018-06-01 14:33:19,942:__main__:The priceinfo for 82289 has been uploaded successfully
+2018-06-01 14:33:21,406:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:33:21,406:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:33:21,409:__main__:There is no price info for Diesel
+2018-06-01 14:33:21,418:__main__:The priceinfo for 3173 has been uploaded successfully
+2018-06-01 14:33:23,506:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:33:23,506:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:33:23,509:__main__:There is no price info for Diesel
+2018-06-01 14:33:23,518:__main__:The priceinfo for 71708 has been uploaded successfully
+2018-06-01 14:33:24,938:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:33:24,938:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:33:24,939:__main__:There is no price info for Diesel
+2018-06-01 14:33:24,951:__main__:The priceinfo for 47274 has been uploaded successfully
+2018-06-01 14:33:26,556:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:33:26,556:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:33:26,557:__main__:There is no price info for Diesel
+2018-06-01 14:33:26,623:__main__:The priceinfo for 19190 has been uploaded successfully
+2018-06-01 14:33:28,074:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:33:28,074:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:33:28,084:__main__:The priceinfo for 11461 has been uploaded successfully
+2018-06-01 14:33:29,436:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:33:29,436:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:33:29,447:__main__:The priceinfo for 70209 has been uploaded successfully
+2018-06-01 14:33:30,965:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:33:30,965:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:33:30,977:__main__:The priceinfo for 3521 has been uploaded successfully
+2018-06-01 14:33:32,927:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:33:32,927:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:33:32,929:__main__:There is no price info for Diesel
+2018-06-01 14:33:32,940:__main__:The priceinfo for 47267 has been uploaded successfully
+2018-06-01 14:33:34,652:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:33:34,653:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:33:34,671:__main__:The priceinfo for 81514 has been uploaded successfully

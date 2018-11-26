@@ -1,0 +1,1575 @@
+2018-07-10 09:44:14,351:gp_crawl:website has been downloaded succesfully: 2094289961905910787
+2018-07-10 09:44:17,878:gp_crawl:website has been downloaded succesfully: 12774600043546122111
+2018-07-10 09:44:19,329:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dec1be30> 
+2018-07-10 09:44:20,919:gp_crawl:website has been downloaded succesfully: 12318639208776142063
+2018-07-10 09:44:24,524:gp_crawl:website has been downloaded succesfully: 1401176404416699929
+2018-07-10 09:44:27,880:gp_crawl:website has been downloaded succesfully: 14277085104083754580
+2018-07-10 09:44:31,143:gp_crawl:website has been downloaded succesfully: 360875453707549723
+2018-07-10 09:44:34,693:gp_crawl:website has been downloaded succesfully: 8356491053641952047
+2018-07-10 09:44:35,949:gp_crawl:The regarding cid get information failed
+2018-07-10 09:44:35,949:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 63, in get_busy_hours
+    days=busyweek.findChildren(recursive=False)
+AttributeError: 'NoneType' object has no attribute 'findChildren'
+2018-07-10 09:44:37,383:gp_crawl:website has been downloaded succesfully: 7875933074006332567
+2018-07-10 09:44:40,463:gp_crawl:website has been downloaded succesfully: 6677395615195590099
+2018-07-10 09:44:43,592:gp_crawl:website has been downloaded succesfully: 7068514584052770021
+2018-07-10 09:44:45,013:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd4dfc00> 
+2018-07-10 09:44:45,013:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd4dfc00> 
+2018-07-10 09:44:46,657:gp_crawl:website has been downloaded succesfully: 8412313382019570378
+2018-07-10 09:44:47,802:gp_crawl:The regarding cid get information failed
+2018-07-10 09:44:47,802:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 63, in get_busy_hours
+    days=busyweek.findChildren(recursive=False)
+AttributeError: 'NoneType' object has no attribute 'findChildren'
+2018-07-10 09:44:49,287:gp_crawl:website has been downloaded succesfully: 9088343541366031693
+2018-07-10 09:44:50,813:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd3b2340> 
+2018-07-10 09:44:52,651:gp_crawl:website has been downloaded succesfully: 14669298887010826561
+2018-07-10 09:44:55,868:gp_crawl:website has been downloaded succesfully: 16491695520809968593
+2018-07-10 09:44:57,082:gp_crawl:The regarding cid get information failed
+2018-07-10 09:44:57,082:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 63, in get_busy_hours
+    days=busyweek.findChildren(recursive=False)
+AttributeError: 'NoneType' object has no attribute 'findChildren'
+2018-07-10 09:44:58,495:gp_crawl:website has been downloaded succesfully: 14325741004077145715
+2018-07-10 09:45:01,971:gp_crawl:website has been downloaded succesfully: 2609659045186037900
+2018-07-10 09:45:05,003:gp_crawl:website has been downloaded succesfully: 4568551785050955177
+2018-07-10 09:45:06,161:gp_crawl:The regarding cid get information failed
+2018-07-10 09:45:06,161:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 63, in get_busy_hours
+    days=busyweek.findChildren(recursive=False)
+AttributeError: 'NoneType' object has no attribute 'findChildren'
+2018-07-10 09:45:07,938:gp_crawl:website has been downloaded succesfully: 811172368309289480
+2018-07-10 09:45:11,336:gp_crawl:website has been downloaded succesfully: 13200923463430641660
+2018-07-10 09:45:13,256:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd429bf0> 
+2018-07-10 09:45:15,335:gp_crawl:website has been downloaded succesfully: 16184645792545790747
+2018-07-10 09:45:16,898:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd429c70> 
+2018-07-10 09:45:18,634:gp_crawl:website has been downloaded succesfully: 9296532431552592956
+2018-07-10 09:45:21,981:gp_crawl:website has been downloaded succesfully: 12683913566908584528
+2018-07-10 09:45:23,430:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd429d30> 
+2018-07-10 09:45:25,210:gp_crawl:website has been downloaded succesfully: 15418311406194346831
+2018-07-10 09:45:28,451:gp_crawl:website has been downloaded succesfully: 14922271454829110818
+2018-07-10 09:45:30,024:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd429e30> 
+2018-07-10 09:45:31,517:gp_crawl:website has been downloaded succesfully: 5870667610985525954
+2018-07-10 09:45:33,081:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd3b2458> 
+2018-07-10 09:45:34,960:gp_crawl:website has been downloaded succesfully: 17782696297143832339
+2018-07-10 09:45:38,256:gp_crawl:website has been downloaded succesfully: 4707666365904255024
+2018-07-10 09:45:41,591:gp_crawl:website has been downloaded succesfully: 12930890699277132186
+2018-07-10 09:45:43,065:gp_crawl:The busyhour information for current station is in the different formation
+2018-07-10 09:45:43,065:gp_crawl:The regarding cid get information failed
+2018-07-10 09:45:43,065:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "Hourly_parse.py", line 144, in <module>
+    load_price_data(gas_info, cid)
+  File "Hourly_parse.py", line 60, in load_price_data
+    % (cid,gasinfo['prices']['Premium'],gasinfo['prices']['Midgrade'],gasinfo['prices']['Regular'],gasinfo['prices']['Diesel'])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+2018-07-10 09:45:44,960:gp_crawl:website has been downloaded succesfully: 15720501747367431575
+2018-07-10 09:45:48,490:gp_crawl:website has been downloaded succesfully: 15564067830775030371
+2018-07-10 09:45:50,532:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd3b60f0> 
+2018-07-10 09:45:52,415:gp_crawl:website has been downloaded succesfully: 9579242362896770546
+2018-07-10 09:45:54,103:gp_crawl:The busyhour information for current station is in the different formation
+2018-07-10 09:45:54,103:gp_crawl:The regarding cid get information failed
+2018-07-10 09:45:54,103:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "Hourly_parse.py", line 144, in <module>
+    load_price_data(gas_info, cid)
+  File "Hourly_parse.py", line 60, in load_price_data
+    % (cid,gasinfo['prices']['Premium'],gasinfo['prices']['Midgrade'],gasinfo['prices']['Regular'],gasinfo['prices']['Diesel'])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+2018-07-10 09:45:55,673:gp_crawl:website has been downloaded succesfully: 17233343761771760056
+2018-07-10 09:45:59,282:gp_crawl:website has been downloaded succesfully: 7088780393328529816
+2018-07-10 09:46:02,749:gp_crawl:website has been downloaded succesfully: 6841945153540148391
+2018-07-10 09:46:05,920:gp_crawl:website has been downloaded succesfully: 2299039736585879831
+2018-07-10 09:46:09,297:gp_crawl:website has been downloaded succesfully: 14996875053312183120
+2018-07-10 09:46:12,618:gp_crawl:website has been downloaded succesfully: 4135923137556733311
+2018-07-10 09:46:14,194:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd3b25a8> 
+2018-07-10 09:46:15,879:gp_crawl:website has been downloaded succesfully: 7949567729942413552
+2018-07-10 09:46:17,472:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd3b25e0> 
+2018-07-10 09:46:19,229:gp_crawl:website has been downloaded succesfully: 16107165039942440347
+2018-07-10 09:46:22,400:gp_crawl:website has been downloaded succesfully: 2357732847270267407
+2018-07-10 09:46:25,912:gp_crawl:website has been downloaded succesfully: 1206024629463146237
+2018-07-10 09:46:29,339:gp_crawl:website has been downloaded succesfully: 4615954961213230235
+2018-07-10 09:46:30,920:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd3b2688> 
+2018-07-10 09:46:32,845:gp_crawl:website has been downloaded succesfully: 663447381992042734
+2018-07-10 09:46:36,175:gp_crawl:website has been downloaded succesfully: 4356159268129788928
+2018-07-10 09:46:39,662:gp_crawl:website has been downloaded succesfully: 5339067562905045275
+2018-07-10 09:46:41,235:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd3b2730> 
+2018-07-10 09:46:42,925:gp_crawl:website has been downloaded succesfully: 13527033269035833383
+2018-07-10 09:46:46,242:gp_crawl:website has been downloaded succesfully: 9525357729693586737
+2018-07-10 09:46:47,724:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd3b2768> 
+2018-07-10 09:46:49,457:gp_crawl:website has been downloaded succesfully: 13370143666442146412
+2018-07-10 09:46:52,905:gp_crawl:website has been downloaded succesfully: 5404823653698154368
+2018-07-10 09:46:54,476:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd3b27a0> 
+2018-07-10 09:46:56,242:gp_crawl:website has been downloaded succesfully: 243685463035708442
+2018-07-10 09:46:59,461:gp_crawl:website has been downloaded succesfully: 6703999818863261736
+2018-07-10 09:47:01,038:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd3b2810> 
+2018-07-10 09:47:02,809:gp_crawl:website has been downloaded succesfully: 15514332450439677246
+2018-07-10 09:47:05,930:gp_crawl:website has been downloaded succesfully: 5283942134612666316
+2018-07-10 09:47:07,566:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd3b2848> 
+2018-07-10 09:47:09,328:gp_crawl:website has been downloaded succesfully: 13916067609697875711
+2018-07-10 09:47:11,062:gp_crawl:The regarding cid get information failed
+2018-07-10 09:47:11,062:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 63, in get_busy_hours
+    days=busyweek.findChildren(recursive=False)
+AttributeError: 'NoneType' object has no attribute 'findChildren'
+2018-07-10 09:47:12,489:gp_crawl:website has been downloaded succesfully: 12674559189877719971
+2018-07-10 09:47:14,403:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd3b6930> 
+2018-07-10 09:47:16,298:gp_crawl:website has been downloaded succesfully: 16878201440095375764
+2018-07-10 09:47:19,634:gp_crawl:website has been downloaded succesfully: 9255854014236724455
+2018-07-10 09:47:23,516:gp_crawl:website has been downloaded succesfully: 15878340069627212949
+2018-07-10 09:47:27,031:gp_crawl:website has been downloaded succesfully: 13655221970068854755
+2018-07-10 09:47:28,777:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd3b6af0> 
+2018-07-10 09:47:30,523:gp_crawl:website has been downloaded succesfully: 12499727444467489946
+2018-07-10 09:47:32,092:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd3b6b70> 
+2018-07-10 09:47:33,792:gp_crawl:website has been downloaded succesfully: 17469658565178433733
+2018-07-10 09:47:37,146:gp_crawl:website has been downloaded succesfully: 1885151669715275099
+2018-07-10 09:47:40,836:gp_crawl:website has been downloaded succesfully: 16805302275475760872
+2018-07-10 09:47:44,311:gp_crawl:website has been downloaded succesfully: 18118946976997353778
+2018-07-10 09:47:48,195:gp_crawl:website has been downloaded succesfully: 11527387921629945526
+2018-07-10 09:47:51,396:gp_crawl:website has been downloaded succesfully: 15853166867579252941
+2018-07-10 09:47:52,784:gp_crawl:The regarding cid get information failed
+2018-07-10 09:47:52,784:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 63, in get_busy_hours
+    days=busyweek.findChildren(recursive=False)
+AttributeError: 'NoneType' object has no attribute 'findChildren'
+2018-07-10 09:47:54,236:gp_crawl:website has been downloaded succesfully: 17225422167045921247
+2018-07-10 09:47:55,747:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd3b6eb0> 
+2018-07-10 09:47:57,518:gp_crawl:website has been downloaded succesfully: 16022109149478686501
+2018-07-10 09:47:59,110:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd3b6f30> 
+2018-07-10 09:48:00,811:gp_crawl:website has been downloaded succesfully: 13291760898679736873
+2018-07-10 09:48:04,001:gp_crawl:website has been downloaded succesfully: 55899946879897071
+2018-07-10 09:48:07,307:gp_crawl:website has been downloaded succesfully: 11385787011325440022
+2018-07-10 09:48:10,528:gp_crawl:website has been downloaded succesfully: 2191503477524475955
+2018-07-10 09:48:13,996:gp_crawl:website has been downloaded succesfully: 13658936254673291938
+2018-07-10 09:48:15,770:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd3b8170> 
+2018-07-10 09:48:17,673:gp_crawl:website has been downloaded succesfully: 5210416296094386307
+2018-07-10 09:48:19,268:gp_crawl:there is a live data <built-in method strip of str object at 0x7f18dd3b2960> 
+
+2018-07-10 10:56:48,661:gp_crawl:website has been downloaded succesfully: 2094289961905910787
+2018-07-10 10:56:52,138:gp_crawl:website has been downloaded succesfully: 12774600043546122111
+2018-07-10 10:56:53,580:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfafb51e30> 
+2018-07-10 10:56:55,314:gp_crawl:website has been downloaded succesfully: 12318639208776142063
+2018-07-10 10:56:58,725:gp_crawl:website has been downloaded succesfully: 1401176404416699929
+2018-07-10 10:57:02,492:gp_crawl:website has been downloaded succesfully: 14277085104083754580
+2018-07-10 10:57:06,246:gp_crawl:website has been downloaded succesfully: 360875453707549723
+2018-07-10 10:57:10,439:gp_crawl:website has been downloaded succesfully: 8356491053641952047
+2018-07-10 10:57:11,713:gp_crawl:The regarding cid get information failed
+2018-07-10 10:57:11,713:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 63, in get_busy_hours
+    days=busyweek.findChildren(recursive=False)
+AttributeError: 'NoneType' object has no attribute 'findChildren'
+2018-07-10 10:57:13,224:gp_crawl:website has been downloaded succesfully: 7875933074006332567
+2018-07-10 10:57:16,544:gp_crawl:website has been downloaded succesfully: 6677395615195590099
+2018-07-10 10:57:20,308:gp_crawl:website has been downloaded succesfully: 7068514584052770021
+2018-07-10 10:57:21,742:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae421a78> 
+2018-07-10 10:57:21,742:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae421a78> 
+2018-07-10 10:57:23,662:gp_crawl:website has been downloaded succesfully: 8412313382019570378
+2018-07-10 10:57:24,819:gp_crawl:The regarding cid get information failed
+2018-07-10 10:57:24,819:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 63, in get_busy_hours
+    days=busyweek.findChildren(recursive=False)
+AttributeError: 'NoneType' object has no attribute 'findChildren'
+2018-07-10 10:57:26,352:gp_crawl:website has been downloaded succesfully: 9088343541366031693
+2018-07-10 10:57:27,882:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae2eb1b8> 
+2018-07-10 10:57:29,753:gp_crawl:website has been downloaded succesfully: 14669298887010826561
+2018-07-10 10:57:33,104:gp_crawl:website has been downloaded succesfully: 16491695520809968593
+2018-07-10 10:57:34,329:gp_crawl:The regarding cid get information failed
+2018-07-10 10:57:34,329:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 63, in get_busy_hours
+    days=busyweek.findChildren(recursive=False)
+AttributeError: 'NoneType' object has no attribute 'findChildren'
+2018-07-10 10:57:35,893:gp_crawl:website has been downloaded succesfully: 14325741004077145715
+2018-07-10 10:57:39,387:gp_crawl:website has been downloaded succesfully: 2609659045186037900
+2018-07-10 10:57:42,862:gp_crawl:website has been downloaded succesfully: 4568551785050955177
+2018-07-10 10:57:44,035:gp_crawl:The regarding cid get information failed
+2018-07-10 10:57:44,035:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 63, in get_busy_hours
+    days=busyweek.findChildren(recursive=False)
+AttributeError: 'NoneType' object has no attribute 'findChildren'
+2018-07-10 10:57:45,523:gp_crawl:website has been downloaded succesfully: 811172368309289480
+2018-07-10 10:57:48,902:gp_crawl:website has been downloaded succesfully: 13200923463430641660
+2018-07-10 10:57:50,824:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae35ebf0> 
+2018-07-10 10:57:52,914:gp_crawl:website has been downloaded succesfully: 16184645792545790747
+2018-07-10 10:57:54,488:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae35ec70> 
+2018-07-10 10:57:56,848:gp_crawl:website has been downloaded succesfully: 9296532431552592956
+2018-07-10 10:58:00,488:gp_crawl:website has been downloaded succesfully: 12683913566908584528
+2018-07-10 10:58:01,957:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae35ed30> 
+2018-07-10 10:58:03,907:gp_crawl:website has been downloaded succesfully: 15418311406194346831
+2018-07-10 10:58:07,814:gp_crawl:website has been downloaded succesfully: 14922271454829110818
+2018-07-10 10:58:09,412:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae35ee30> 
+2018-07-10 10:58:11,528:gp_crawl:website has been downloaded succesfully: 5870667610985525954
+2018-07-10 10:58:13,069:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae2eb2d0> 
+2018-07-10 10:58:15,286:gp_crawl:website has been downloaded succesfully: 17782696297143832339
+2018-07-10 10:58:19,097:gp_crawl:website has been downloaded succesfully: 4707666365904255024
+2018-07-10 10:58:22,652:gp_crawl:website has been downloaded succesfully: 12930890699277132186
+2018-07-10 10:58:24,101:gp_crawl:The busyhour information for current station is in the different formation
+2018-07-10 10:58:24,102:gp_crawl:The regarding cid get information failed
+2018-07-10 10:58:24,102:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "../googleAPI_parsing/Hourly_parse.py", line 146, in <module>
+    load_price_data(gas_info, cid)
+  File "../googleAPI_parsing/Hourly_parse.py", line 60, in load_price_data
+    % (cid,gasinfo['prices']['Premium'],gasinfo['prices']['Midgrade'],gasinfo['prices']['Regular'],gasinfo['prices']['Diesel'])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+2018-07-10 10:58:25,625:gp_crawl:website has been downloaded succesfully: 15720501747367431575
+2018-07-10 10:58:29,818:gp_crawl:website has been downloaded succesfully: 15564067830775030371
+2018-07-10 10:58:31,767:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae2ee0f0> 
+2018-07-10 10:58:34,019:gp_crawl:website has been downloaded succesfully: 9579242362896770546
+2018-07-10 10:58:35,517:gp_crawl:The busyhour information for current station is in the different formation
+2018-07-10 10:58:35,517:gp_crawl:The regarding cid get information failed
+2018-07-10 10:58:35,518:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "../googleAPI_parsing/Hourly_parse.py", line 146, in <module>
+    load_price_data(gas_info, cid)
+  File "../googleAPI_parsing/Hourly_parse.py", line 60, in load_price_data
+    % (cid,gasinfo['prices']['Premium'],gasinfo['prices']['Midgrade'],gasinfo['prices']['Regular'],gasinfo['prices']['Diesel'])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+2018-07-10 10:58:36,952:gp_crawl:website has been downloaded succesfully: 17233343761771760056
+2018-07-10 10:58:40,429:gp_crawl:website has been downloaded succesfully: 7088780393328529816
+2018-07-10 10:58:44,155:gp_crawl:website has been downloaded succesfully: 6841945153540148391
+2018-07-10 10:58:47,768:gp_crawl:website has been downloaded succesfully: 2299039736585879831
+2018-07-10 10:58:51,520:gp_crawl:website has been downloaded succesfully: 14996875053312183120
+2018-07-10 10:58:55,209:gp_crawl:website has been downloaded succesfully: 4135923137556733311
+2018-07-10 10:58:56,794:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae2eb420> 
+2018-07-10 10:58:59,173:gp_crawl:website has been downloaded succesfully: 7949567729942413552
+2018-07-10 10:59:00,733:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae2eb458> 
+2018-07-10 10:59:03,021:gp_crawl:website has been downloaded succesfully: 16107165039942440347
+2018-07-10 10:59:06,675:gp_crawl:website has been downloaded succesfully: 2357732847270267407
+2018-07-10 10:59:10,419:gp_crawl:website has been downloaded succesfully: 1206024629463146237
+2018-07-10 10:59:14,143:gp_crawl:website has been downloaded succesfully: 4615954961213230235
+2018-07-10 10:59:15,730:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae2eb500> 
+2018-07-10 10:59:17,942:gp_crawl:website has been downloaded succesfully: 663447381992042734
+2018-07-10 10:59:21,525:gp_crawl:website has been downloaded succesfully: 4356159268129788928
+2018-07-10 10:59:25,324:gp_crawl:website has been downloaded succesfully: 5339067562905045275
+2018-07-10 10:59:26,913:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae2eb5a8> 
+2018-07-10 10:59:29,433:gp_crawl:website has been downloaded succesfully: 13527033269035833383
+2018-07-10 10:59:33,234:gp_crawl:website has been downloaded succesfully: 9525357729693586737
+2018-07-10 10:59:34,700:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae2eb5e0> 
+2018-07-10 10:59:36,921:gp_crawl:website has been downloaded succesfully: 13370143666442146412
+2018-07-10 10:59:41,059:gp_crawl:website has been downloaded succesfully: 5404823653698154368
+2018-07-10 10:59:42,678:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae2eb618> 
+2018-07-10 10:59:44,790:gp_crawl:website has been downloaded succesfully: 243685463035708442
+2018-07-10 10:59:48,608:gp_crawl:website has been downloaded succesfully: 6703999818863261736
+2018-07-10 10:59:50,173:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae2eb688> 
+2018-07-10 10:59:52,371:gp_crawl:website has been downloaded succesfully: 15514332450439677246
+2018-07-10 10:59:55,888:gp_crawl:website has been downloaded succesfully: 5283942134612666316
+2018-07-10 10:59:57,489:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae2eb6c0> 
+2018-07-10 10:59:59,770:gp_crawl:website has been downloaded succesfully: 13916067609697875711
+2018-07-10 11:00:01,483:gp_crawl:The regarding cid get information failed
+2018-07-10 11:00:01,483:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 63, in get_busy_hours
+    days=busyweek.findChildren(recursive=False)
+AttributeError: 'NoneType' object has no attribute 'findChildren'
+2018-07-10 11:00:03,787:gp_crawl:website has been downloaded succesfully: 2094289961905910787
+2018-07-10 11:00:03,790:gp_crawl:website has been downloaded succesfully: 12674559189877719971
+2018-07-10 11:00:05,802:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae2ee930> 
+2018-07-10 11:00:07,620:gp_crawl:website has been downloaded succesfully: 12774600043546122111
+2018-07-10 11:00:08,460:gp_crawl:website has been downloaded succesfully: 16878201440095375764
+2018-07-10 11:00:09,249:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb54672ecf0> 
+2018-07-10 11:00:11,326:gp_crawl:website has been downloaded succesfully: 12318639208776142063
+2018-07-10 11:00:12,731:gp_crawl:website has been downloaded succesfully: 9255854014236724455
+2018-07-10 11:00:15,391:gp_crawl:website has been downloaded succesfully: 1401176404416699929
+2018-07-10 11:00:17,383:gp_crawl:website has been downloaded succesfully: 15878340069627212949
+2018-07-10 11:00:19,228:gp_crawl:website has been downloaded succesfully: 14277085104083754580
+2018-07-10 11:00:21,284:gp_crawl:website has been downloaded succesfully: 13655221970068854755
+2018-07-10 11:00:22,998:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae2eeaf0> 
+2018-07-10 11:00:23,364:gp_crawl:website has been downloaded succesfully: 360875453707549723
+2018-07-10 11:00:25,267:gp_crawl:website has been downloaded succesfully: 12499727444467489946
+2018-07-10 11:00:26,929:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae2eeb70> 
+2018-07-10 11:00:27,875:gp_crawl:website has been downloaded succesfully: 8356491053641952047
+2018-07-10 11:00:29,353:gp_crawl:website has been downloaded succesfully: 17469658565178433733
+2018-07-10 11:00:29,401:gp_crawl:The regarding cid get information failed
+2018-07-10 11:00:29,401:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 63, in get_busy_hours
+    days=busyweek.findChildren(recursive=False)
+AttributeError: 'NoneType' object has no attribute 'findChildren'
+2018-07-10 11:00:30,860:gp_crawl:website has been downloaded succesfully: 7875933074006332567
+2018-07-10 11:00:33,389:gp_crawl:website has been downloaded succesfully: 1885151669715275099
+2018-07-10 11:00:35,044:gp_crawl:website has been downloaded succesfully: 6677395615195590099
+2018-07-10 11:00:37,687:gp_crawl:website has been downloaded succesfully: 16805302275475760872
+2018-07-10 11:00:39,232:gp_crawl:website has been downloaded succesfully: 7068514584052770021
+2018-07-10 11:00:40,779:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545fdb928> 
+2018-07-10 11:00:40,779:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545fdb928> 
+2018-07-10 11:00:41,827:gp_crawl:website has been downloaded succesfully: 18118946976997353778
+2018-07-10 11:00:42,992:gp_crawl:website has been downloaded succesfully: 8412313382019570378
+2018-07-10 11:00:44,196:gp_crawl:The regarding cid get information failed
+2018-07-10 11:00:44,196:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 63, in get_busy_hours
+    days=busyweek.findChildren(recursive=False)
+AttributeError: 'NoneType' object has no attribute 'findChildren'
+2018-07-10 11:00:46,287:gp_crawl:website has been downloaded succesfully: 9088343541366031693
+2018-07-10 11:00:46,311:gp_crawl:website has been downloaded succesfully: 11527387921629945526
+2018-07-10 11:00:47,890:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545efe068> 
+2018-07-10 11:00:49,391:gp_crawl:website has been downloaded succesfully: 15853166867579252941
+2018-07-10 11:00:49,982:gp_crawl:website has been downloaded succesfully: 14669298887010826561
+2018-07-10 11:00:50,967:gp_crawl:The regarding cid get information failed
+2018-07-10 11:00:50,967:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 63, in get_busy_hours
+    days=busyweek.findChildren(recursive=False)
+AttributeError: 'NoneType' object has no attribute 'findChildren'
+2018-07-10 11:00:52,617:gp_crawl:website has been downloaded succesfully: 17225422167045921247
+2018-07-10 11:00:53,979:gp_crawl:website has been downloaded succesfully: 16491695520809968593
+2018-07-10 11:00:54,210:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae2eeeb0> 
+2018-07-10 11:00:55,312:gp_crawl:The regarding cid get information failed
+2018-07-10 11:00:55,313:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 63, in get_busy_hours
+    days=busyweek.findChildren(recursive=False)
+AttributeError: 'NoneType' object has no attribute 'findChildren'
+2018-07-10 11:00:56,411:gp_crawl:website has been downloaded succesfully: 16022109149478686501
+2018-07-10 11:00:57,365:gp_crawl:website has been downloaded succesfully: 14325741004077145715
+2018-07-10 11:00:58,156:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae2eef30> 
+2018-07-10 11:01:00,239:gp_crawl:website has been downloaded succesfully: 13291760898679736873
+2018-07-10 11:01:01,322:gp_crawl:website has been downloaded succesfully: 2609659045186037900
+2018-07-10 11:01:03,335:gp_crawl:website has been downloaded succesfully: 55899946879897071
+2018-07-10 11:01:05,381:gp_crawl:website has been downloaded succesfully: 4568551785050955177
+2018-07-10 11:01:06,736:gp_crawl:The regarding cid get information failed
+2018-07-10 11:01:06,736:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 63, in get_busy_hours
+    days=busyweek.findChildren(recursive=False)
+AttributeError: 'NoneType' object has no attribute 'findChildren'
+2018-07-10 11:01:07,313:gp_crawl:website has been downloaded succesfully: 11385787011325440022
+2018-07-10 11:01:08,819:gp_crawl:website has been downloaded succesfully: 811172368309289480
+2018-07-10 11:01:11,138:gp_crawl:website has been downloaded succesfully: 2191503477524475955
+2018-07-10 11:01:13,334:gp_crawl:website has been downloaded succesfully: 13200923463430641660
+2018-07-10 11:01:15,296:gp_crawl:website has been downloaded succesfully: 13658936254673291938
+2018-07-10 11:01:15,659:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545f6fab0> 
+2018-07-10 11:01:16,917:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae2f0170> 
+2018-07-10 11:01:17,900:gp_crawl:website has been downloaded succesfully: 16184645792545790747
+2018-07-10 11:01:19,390:gp_crawl:website has been downloaded succesfully: 5210416296094386307
+2018-07-10 11:01:19,783:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545f6fb30> 
+2018-07-10 11:01:21,051:gp_crawl:there is a live data <built-in method strip of str object at 0x7fbfae2eb7d8> 
+2018-07-10 11:01:21,859:gp_crawl:website has been downloaded succesfully: 9296532431552592956
+2018-07-10 11:01:26,176:gp_crawl:website has been downloaded succesfully: 12683913566908584528
+2018-07-10 11:01:27,854:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545f6fbf0> 
+2018-07-10 11:01:29,879:gp_crawl:website has been downloaded succesfully: 15418311406194346831
+2018-07-10 11:01:33,884:gp_crawl:website has been downloaded succesfully: 14922271454829110818
+2018-07-10 11:01:35,768:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545f6fcf0> 
+2018-07-10 11:01:37,946:gp_crawl:website has been downloaded succesfully: 5870667610985525954
+2018-07-10 11:01:39,736:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545efe180> 
+2018-07-10 11:01:42,002:gp_crawl:website has been downloaded succesfully: 17782696297143832339
+2018-07-10 11:01:45,504:gp_crawl:website has been downloaded succesfully: 4707666365904255024
+2018-07-10 11:01:48,932:gp_crawl:website has been downloaded succesfully: 12930890699277132186
+2018-07-10 11:01:50,446:gp_crawl:The busyhour information for current station is in the different formation
+2018-07-10 11:01:50,446:gp_crawl:The regarding cid get information failed
+2018-07-10 11:01:50,446:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/Hourly_parse.py", line 146, in <module>
+    load_price_data(gas_info, cid)
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/Hourly_parse.py", line 60, in load_price_data
+    % (cid,gasinfo['prices']['Premium'],gasinfo['prices']['Midgrade'],gasinfo['prices']['Regular'],gasinfo['prices']['Diesel'])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+2018-07-10 11:01:52,086:gp_crawl:website has been downloaded succesfully: 15720501747367431575
+2018-07-10 11:01:56,312:gp_crawl:website has been downloaded succesfully: 15564067830775030371
+2018-07-10 11:01:58,526:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545f6ff70> 
+2018-07-10 11:02:00,381:gp_crawl:website has been downloaded succesfully: 9579242362896770546
+2018-07-10 11:02:02,169:gp_crawl:The busyhour information for current station is in the different formation
+2018-07-10 11:02:02,169:gp_crawl:The regarding cid get information failed
+2018-07-10 11:02:02,169:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/Hourly_parse.py", line 146, in <module>
+    load_price_data(gas_info, cid)
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/Hourly_parse.py", line 60, in load_price_data
+    % (cid,gasinfo['prices']['Premium'],gasinfo['prices']['Midgrade'],gasinfo['prices']['Regular'],gasinfo['prices']['Diesel'])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+2018-07-10 11:02:03,526:gp_crawl:website has been downloaded succesfully: 17233343761771760056
+2018-07-10 11:02:06,889:gp_crawl:website has been downloaded succesfully: 7088780393328529816
+2018-07-10 11:02:10,320:gp_crawl:website has been downloaded succesfully: 6841945153540148391
+2018-07-10 11:02:13,948:gp_crawl:website has been downloaded succesfully: 2299039736585879831
+2018-07-10 11:02:17,510:gp_crawl:website has been downloaded succesfully: 14996875053312183120
+2018-07-10 11:02:21,073:gp_crawl:website has been downloaded succesfully: 4135923137556733311
+2018-07-10 11:02:22,680:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545efe2d0> 
+2018-07-10 11:02:24,595:gp_crawl:website has been downloaded succesfully: 7949567729942413552
+2018-07-10 11:02:26,364:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545efe308> 
+2018-07-10 11:02:28,351:gp_crawl:website has been downloaded succesfully: 16107165039942440347
+2018-07-10 11:02:31,820:gp_crawl:website has been downloaded succesfully: 2357732847270267407
+2018-07-10 11:02:35,707:gp_crawl:website has been downloaded succesfully: 1206024629463146237
+2018-07-10 11:02:39,913:gp_crawl:website has been downloaded succesfully: 4615954961213230235
+2018-07-10 11:02:41,540:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545efe3b0> 
+2018-07-10 11:02:43,581:gp_crawl:website has been downloaded succesfully: 663447381992042734
+2018-07-10 11:02:47,283:gp_crawl:website has been downloaded succesfully: 4356159268129788928
+2018-07-10 11:02:50,982:gp_crawl:website has been downloaded succesfully: 5339067562905045275
+2018-07-10 11:02:52,611:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545efe458> 
+2018-07-10 11:02:54,955:gp_crawl:website has been downloaded succesfully: 13527033269035833383
+2018-07-10 11:02:58,710:gp_crawl:website has been downloaded succesfully: 9525357729693586737
+2018-07-10 11:03:00,417:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545efe490> 
+2018-07-10 11:03:02,678:gp_crawl:website has been downloaded succesfully: 13370143666442146412
+2018-07-10 11:03:06,079:gp_crawl:website has been downloaded succesfully: 5404823653698154368
+2018-07-10 11:03:07,742:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545efe4c8> 
+2018-07-10 11:03:09,884:gp_crawl:website has been downloaded succesfully: 243685463035708442
+2018-07-10 11:03:14,013:gp_crawl:website has been downloaded succesfully: 6703999818863261736
+2018-07-10 11:03:15,670:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545efe538> 
+2018-07-10 11:03:17,806:gp_crawl:website has been downloaded succesfully: 15514332450439677246
+2018-07-10 11:03:21,390:gp_crawl:website has been downloaded succesfully: 5283942134612666316
+2018-07-10 11:03:23,043:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545efe570> 
+2018-07-10 11:03:25,170:gp_crawl:website has been downloaded succesfully: 13916067609697875711
+2018-07-10 11:03:26,893:gp_crawl:The regarding cid get information failed
+2018-07-10 11:03:26,893:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 63, in get_busy_hours
+    days=busyweek.findChildren(recursive=False)
+AttributeError: 'NoneType' object has no attribute 'findChildren'
+2018-07-10 11:03:28,288:gp_crawl:website has been downloaded succesfully: 12674559189877719971
+2018-07-10 11:03:30,237:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545eff7f0> 
+2018-07-10 11:03:32,397:gp_crawl:website has been downloaded succesfully: 16878201440095375764
+2018-07-10 11:03:36,368:gp_crawl:website has been downloaded succesfully: 9255854014236724455
+2018-07-10 11:03:40,700:gp_crawl:website has been downloaded succesfully: 15878340069627212949
+2018-07-10 11:03:44,659:gp_crawl:website has been downloaded succesfully: 13655221970068854755
+2018-07-10 11:03:46,426:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545eff9b0> 
+2018-07-10 11:03:48,904:gp_crawl:website has been downloaded succesfully: 12499727444467489946
+2018-07-10 11:03:50,663:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545effa30> 
+2018-07-10 11:03:52,693:gp_crawl:website has been downloaded succesfully: 17469658565178433733
+2018-07-10 11:03:56,953:gp_crawl:website has been downloaded succesfully: 1885151669715275099
+2018-07-10 11:04:01,334:gp_crawl:website has been downloaded succesfully: 16805302275475760872
+2018-07-10 11:04:05,386:gp_crawl:website has been downloaded succesfully: 18118946976997353778
+2018-07-10 11:04:09,680:gp_crawl:website has been downloaded succesfully: 11527387921629945526
+2018-07-10 11:04:12,869:gp_crawl:website has been downloaded succesfully: 15853166867579252941
+2018-07-10 11:04:14,277:gp_crawl:The regarding cid get information failed
+2018-07-10 11:04:14,277:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 108, in get_gas_information
+    busyinfo=get_busy_hours(soup,cid)
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 63, in get_busy_hours
+    days=busyweek.findChildren(recursive=False)
+AttributeError: 'NoneType' object has no attribute 'findChildren'
+2018-07-10 11:04:16,011:gp_crawl:website has been downloaded succesfully: 17225422167045921247
+2018-07-10 11:04:17,695:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545effd70> 
+2018-07-10 11:04:19,638:gp_crawl:website has been downloaded succesfully: 16022109149478686501
+2018-07-10 11:04:21,211:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545effdf0> 
+2018-07-10 11:04:23,145:gp_crawl:website has been downloaded succesfully: 13291760898679736873
+2018-07-10 11:04:26,305:gp_crawl:website has been downloaded succesfully: 55899946879897071
+2018-07-10 11:04:30,063:gp_crawl:website has been downloaded succesfully: 11385787011325440022
+2018-07-10 11:04:33,873:gp_crawl:website has been downloaded succesfully: 2191503477524475955
+2018-07-10 11:04:37,297:gp_crawl:website has been downloaded succesfully: 13658936254673291938
+2018-07-10 11:04:38,903:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545f01030> 
+2018-07-10 11:04:41,022:gp_crawl:website has been downloaded succesfully: 5210416296094386307
+2018-07-10 11:04:42,801:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb545efe688> 
+2018-07-10 11:38:00,857:gp_crawl:website has been downloaded succesfully: 2094289961905910787
+2018-07-10 11:38:04,465:gp_crawl:website has been downloaded succesfully: 12774600043546122111
+2018-07-10 11:38:05,919:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb17b0cde30> 
+2018-07-10 11:38:07,951:gp_crawl:website has been downloaded succesfully: 12318639208776142063
+2018-07-10 11:38:11,310:gp_crawl:website has been downloaded succesfully: 1401176404416699929
+2018-07-10 11:38:14,803:gp_crawl:website has been downloaded succesfully: 14277085104083754580
+2018-07-10 11:38:18,348:gp_crawl:website has been downloaded succesfully: 360875453707549723
+2018-07-10 11:38:22,318:gp_crawl:website has been downloaded succesfully: 8356491053641952047
+2018-07-10 11:38:23,567:gp_crawl:The regarding cid get information failed
+2018-07-10 11:38:23,567:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 112, in get_gas_information
+    print traceback.print_exc(file=sys.stdout)
+NameError: global name 'traceback' is not defined
+2018-07-10 11:38:24,983:gp_crawl:website has been downloaded succesfully: 7875933074006332567
+2018-07-10 11:38:28,475:gp_crawl:website has been downloaded succesfully: 6677395615195590099
+2018-07-10 11:38:31,992:gp_crawl:website has been downloaded succesfully: 7068514584052770021
+2018-07-10 11:38:33,428:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb17998fc00> 
+2018-07-10 11:38:33,428:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb17998fc00> 
+2018-07-10 11:38:35,530:gp_crawl:website has been downloaded succesfully: 8412313382019570378
+2018-07-10 11:38:36,681:gp_crawl:The regarding cid get information failed
+2018-07-10 11:38:36,681:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 112, in get_gas_information
+    print traceback.print_exc(file=sys.stdout)
+NameError: global name 'traceback' is not defined
+2018-07-10 11:38:38,440:gp_crawl:website has been downloaded succesfully: 9088343541366031693
+2018-07-10 11:38:40,146:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb179865340> 
+2018-07-10 11:38:42,104:gp_crawl:website has been downloaded succesfully: 14669298887010826561
+2018-07-10 11:38:45,426:gp_crawl:website has been downloaded succesfully: 16491695520809968593
+2018-07-10 11:38:46,652:gp_crawl:The regarding cid get information failed
+2018-07-10 11:38:46,652:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 112, in get_gas_information
+    print traceback.print_exc(file=sys.stdout)
+NameError: global name 'traceback' is not defined
+2018-07-10 11:38:48,105:gp_crawl:website has been downloaded succesfully: 14325741004077145715
+2018-07-10 11:38:51,635:gp_crawl:website has been downloaded succesfully: 2609659045186037900
+2018-07-10 11:38:55,210:gp_crawl:website has been downloaded succesfully: 4568551785050955177
+2018-07-10 11:38:56,394:gp_crawl:The regarding cid get information failed
+2018-07-10 11:38:56,394:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 112, in get_gas_information
+    print traceback.print_exc(file=sys.stdout)
+NameError: global name 'traceback' is not defined
+2018-07-10 11:38:58,024:gp_crawl:website has been downloaded succesfully: 811172368309289480
+2018-07-10 11:39:01,502:gp_crawl:website has been downloaded succesfully: 13200923463430641660
+2018-07-10 11:39:03,450:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb1798dbbf0> 
+2018-07-10 11:39:05,470:gp_crawl:website has been downloaded succesfully: 16184645792545790747
+2018-07-10 11:39:07,068:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb1798dbc70> 
+2018-07-10 11:39:08,809:gp_crawl:website has been downloaded succesfully: 9296532431552592956
+2018-07-10 11:39:12,452:gp_crawl:website has been downloaded succesfully: 12683913566908584528
+2018-07-10 11:39:13,919:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb1798dbd30> 
+2018-07-10 11:39:16,358:gp_crawl:website has been downloaded succesfully: 15418311406194346831
+2018-07-10 11:39:20,405:gp_crawl:website has been downloaded succesfully: 14922271454829110818
+2018-07-10 11:39:22,039:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb1798dbe30> 
+2018-07-10 11:39:24,167:gp_crawl:website has been downloaded succesfully: 5870667610985525954
+2018-07-10 11:39:25,739:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb179865458> 
+2018-07-10 11:39:27,809:gp_crawl:website has been downloaded succesfully: 17782696297143832339
+2018-07-10 11:39:31,303:gp_crawl:website has been downloaded succesfully: 4707666365904255024
+2018-07-10 11:39:34,899:gp_crawl:website has been downloaded succesfully: 12930890699277132186
+2018-07-10 11:39:36,396:gp_crawl:The busyhour information for current station is in the different formation
+2018-07-10 11:39:36,396:gp_crawl:The regarding cid get information failed
+2018-07-10 11:39:36,396:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 112, in get_gas_information
+    print traceback.print_exc(file=sys.stdout)
+NameError: global name 'traceback' is not defined
+2018-07-10 11:39:37,812:gp_crawl:website has been downloaded succesfully: 15720501747367431575
+2018-07-10 11:39:41,728:gp_crawl:website has been downloaded succesfully: 15564067830775030371
+2018-07-10 11:39:43,727:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb1798690f0> 
+2018-07-10 11:39:45,997:gp_crawl:website has been downloaded succesfully: 9579242362896770546
+2018-07-10 11:39:47,596:gp_crawl:The busyhour information for current station is in the different formation
+2018-07-10 11:39:47,597:gp_crawl:The regarding cid get information failed
+2018-07-10 11:39:47,597:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 112, in get_gas_information
+    print traceback.print_exc(file=sys.stdout)
+NameError: global name 'traceback' is not defined
+2018-07-10 11:39:49,202:gp_crawl:website has been downloaded succesfully: 17233343761771760056
+2018-07-10 11:39:52,845:gp_crawl:website has been downloaded succesfully: 7088780393328529816
+2018-07-10 11:39:56,390:gp_crawl:website has been downloaded succesfully: 6841945153540148391
+2018-07-10 11:44:27,102:gp_crawl:website has been downloaded succesfully: 2094289961905910787
+2018-07-10 11:44:30,538:gp_crawl:website has been downloaded succesfully: 12774600043546122111
+2018-07-10 11:44:31,984:gp_crawl:there is a live data <built-in method strip of str object at 0x7faf517a6e30> 
+2018-07-10 11:44:34,181:gp_crawl:website has been downloaded succesfully: 12318639208776142063
+2018-07-10 11:44:37,950:gp_crawl:website has been downloaded succesfully: 1401176404416699929
+2018-07-10 11:44:41,510:gp_crawl:website has been downloaded succesfully: 14277085104083754580
+2018-07-10 11:44:45,320:gp_crawl:website has been downloaded succesfully: 360875453707549723
+2018-07-10 11:44:49,496:gp_crawl:website has been downloaded succesfully: 8356491053641952047
+2018-07-10 11:44:50,772:gp_crawl:The regarding cid get information failed
+2018-07-10 11:44:50,772:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 112, in get_gas_information
+    print traceback.print_exc(file=sys.stdout)
+NameError: global name 'traceback' is not defined
+2018-07-10 11:44:52,301:gp_crawl:website has been downloaded succesfully: 7875933074006332567
+2018-07-10 11:44:55,875:gp_crawl:website has been downloaded succesfully: 6677395615195590099
+2018-07-10 11:44:59,489:gp_crawl:website has been downloaded succesfully: 7068514584052770021
+2018-07-10 11:45:00,928:gp_crawl:there is a live data <built-in method strip of str object at 0x7faf50068c00> 
+2018-07-10 11:45:00,929:gp_crawl:there is a live data <built-in method strip of str object at 0x7faf50068c00> 
+2018-07-10 11:45:02,746:gp_crawl:website has been downloaded succesfully: 8412313382019570378
+2018-07-10 11:45:03,903:gp_crawl:The regarding cid get information failed
+2018-07-10 11:45:03,903:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 112, in get_gas_information
+    print traceback.print_exc(file=sys.stdout)
+NameError: global name 'traceback' is not defined
+2018-07-10 11:45:05,442:gp_crawl:website has been downloaded succesfully: 9088343541366031693
+2018-07-10 11:45:06,995:gp_crawl:there is a live data <built-in method strip of str object at 0x7faf4ff3e340> 
+2018-07-10 11:45:09,278:gp_crawl:website has been downloaded succesfully: 14669298887010826561
+2018-07-10 11:45:12,936:gp_crawl:website has been downloaded succesfully: 16491695520809968593
+2018-07-10 11:47:56,260:gp_crawl:website has been downloaded succesfully: 2094289961905910787
+2018-07-10 11:48:00,235:gp_crawl:website has been downloaded succesfully: 12774600043546122111
+2018-07-10 11:48:01,873:gp_crawl:there is a live data <built-in method strip of str object at 0x7fab8ec5ce30> 
+2018-07-10 11:48:03,724:gp_crawl:website has been downloaded succesfully: 12318639208776142063
+2018-07-10 11:48:07,650:gp_crawl:website has been downloaded succesfully: 1401176404416699929
+2018-07-10 11:48:11,344:gp_crawl:website has been downloaded succesfully: 14277085104083754580
+2018-07-10 11:48:14,924:gp_crawl:website has been downloaded succesfully: 360875453707549723
+2018-07-10 11:48:19,231:gp_crawl:website has been downloaded succesfully: 8356491053641952047
+2018-07-10 11:48:20,493:gp_crawl:The regarding cid get information failed
+2018-07-10 11:48:20,493:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 112, in get_gas_information
+    print traceback.print_exc(file=sys.stdout)
+NameError: global name 'traceback' is not defined
+2018-07-10 11:49:16,202:gp_crawl:website has been downloaded succesfully: 2094289961905910787
+2018-07-10 11:49:19,868:gp_crawl:website has been downloaded succesfully: 12774600043546122111
+2018-07-10 11:49:21,542:gp_crawl:there is a live data <built-in method strip of str object at 0x7fc73e004e30> 
+2018-07-10 11:49:23,422:gp_crawl:website has been downloaded succesfully: 12318639208776142063
+2018-07-10 11:49:27,543:gp_crawl:website has been downloaded succesfully: 1401176404416699929
+2018-07-10 11:49:31,277:gp_crawl:website has been downloaded succesfully: 14277085104083754580
+2018-07-10 11:49:35,046:gp_crawl:website has been downloaded succesfully: 360875453707549723
+2018-07-10 11:49:38,671:gp_crawl:website has been downloaded succesfully: 8356491053641952047
+2018-07-10 11:49:39,952:gp_crawl:The regarding cid get information failed
+2018-07-10 11:49:39,952:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 112, in get_gas_information
+    print traceback.print_exc(file=sys.stdout)
+NameError: global name 'traceback' is not defined
+2018-07-10 11:50:43,999:gp_crawl:website has been downloaded succesfully: 2094289961905910787
+2018-07-10 11:51:10,692:gp_crawl:website has been downloaded succesfully: 2094289961905910787
+2018-07-10 11:51:14,279:gp_crawl:website has been downloaded succesfully: 12774600043546122111
+2018-07-10 11:51:15,770:gp_crawl:there is a live data <built-in method strip of str object at 0x7f64f18d8e30> 
+2018-07-10 11:51:18,022:gp_crawl:website has been downloaded succesfully: 12318639208776142063
+2018-07-10 11:51:21,925:gp_crawl:website has been downloaded succesfully: 1401176404416699929
+2018-07-10 11:51:25,509:gp_crawl:website has been downloaded succesfully: 14277085104083754580
+2018-07-10 11:51:29,255:gp_crawl:website has been downloaded succesfully: 360875453707549723
+2018-07-10 11:51:33,472:gp_crawl:website has been downloaded succesfully: 8356491053641952047
+2018-07-10 11:51:34,780:gp_crawl:The regarding cid get information failed
+2018-07-10 11:51:34,781:gp_crawl:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/googleAPI_parsing/gp_crawl.py", line 112, in get_gas_information
+    print traceback.print_exc(file=sys.stdout)
+NameError: global name 'traceback' is not defined
+2018-07-10 11:54:54,202:gp_crawl:website has been downloaded succesfully: 2094289961905910787
+2018-07-10 11:54:57,839:gp_crawl:website has been downloaded succesfully: 12774600043546122111
+2018-07-10 11:54:59,288:gp_crawl:there is a live data <built-in method strip of str object at 0x7f4d85554e30> 
+2018-07-10 11:55:00,950:gp_crawl:website has been downloaded succesfully: 12318639208776142063
+2018-07-10 11:55:04,671:gp_crawl:website has been downloaded succesfully: 1401176404416699929
+2018-07-10 11:55:08,305:gp_crawl:website has been downloaded succesfully: 14277085104083754580
+2018-07-10 11:55:11,926:gp_crawl:website has been downloaded succesfully: 360875453707549723
+2018-07-10 11:55:15,981:gp_crawl:website has been downloaded succesfully: 8356491053641952047
+2018-07-10 11:57:59,670:gp_crawl:website has been downloaded succesfully: 2094289961905910787
+2018-07-10 11:58:03,308:gp_crawl:website has been downloaded succesfully: 12774600043546122111
+2018-07-10 11:58:04,758:gp_crawl:there is a live data <built-in method strip of str object at 0x7fda11f3ae30> 
+2018-07-10 11:58:06,653:gp_crawl:website has been downloaded succesfully: 12318639208776142063
+2018-07-10 11:58:10,394:gp_crawl:website has been downloaded succesfully: 1401176404416699929
+2018-07-10 11:58:13,357:gp_crawl:website has been downloaded succesfully: 14277085104083754580
+2018-07-10 11:58:16,332:gp_crawl:website has been downloaded succesfully: 360875453707549723
+2018-07-10 11:58:20,264:gp_crawl:website has been downloaded succesfully: 8356491053641952047
+2018-07-10 11:58:23,396:gp_crawl:website has been downloaded succesfully: 7875933074006332567
+2018-07-10 11:58:26,868:gp_crawl:website has been downloaded succesfully: 6677395615195590099
+2018-07-10 11:58:30,307:gp_crawl:website has been downloaded succesfully: 7068514584052770021
+2018-07-10 11:58:31,795:gp_crawl:there is a live data <built-in method strip of str object at 0x7fda107fec70> 
+2018-07-10 11:58:31,796:gp_crawl:there is a live data <built-in method strip of str object at 0x7fda107fec70> 
+2018-07-10 11:58:34,087:gp_crawl:website has been downloaded succesfully: 8412313382019570378
+2018-07-10 12:00:02,798:gp_crawl:website has been downloaded succesfully: 2094289961905910787
+2018-07-10 12:00:06,297:gp_crawl:website has been downloaded succesfully: 12774600043546122111
+2018-07-10 12:00:07,758:gp_crawl:there is a live data <built-in method strip of str object at 0x7f510f06fcf0> 
+2018-07-10 12:00:09,703:gp_crawl:website has been downloaded succesfully: 12318639208776142063
+2018-07-10 12:00:13,564:gp_crawl:website has been downloaded succesfully: 1401176404416699929
+2018-07-10 12:00:17,393:gp_crawl:website has been downloaded succesfully: 14277085104083754580
+2018-07-10 12:00:20,964:gp_crawl:website has been downloaded succesfully: 360875453707549723
+2018-07-10 12:00:25,053:gp_crawl:website has been downloaded succesfully: 8356491053641952047
+2018-07-10 12:00:27,970:gp_crawl:website has been downloaded succesfully: 7875933074006332567
+2018-07-10 12:00:31,311:gp_crawl:website has been downloaded succesfully: 6677395615195590099
+2018-07-10 12:00:34,993:gp_crawl:website has been downloaded succesfully: 7068514584052770021
+2018-07-10 12:00:36,624:gp_crawl:there is a live data <built-in method strip of str object at 0x7f510e91d998> 
+2018-07-10 12:00:36,625:gp_crawl:there is a live data <built-in method strip of str object at 0x7f510e91d998> 
+2018-07-10 12:00:38,327:gp_crawl:website has been downloaded succesfully: 8412313382019570378
+2018-07-10 12:03:30,413:gp_crawl:website has been downloaded succesfully: 2094289961905910787
+2018-07-10 12:03:33,975:gp_crawl:website has been downloaded succesfully: 12774600043546122111
+2018-07-10 12:03:35,437:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb368b938b0> 
+2018-07-10 12:03:37,323:gp_crawl:website has been downloaded succesfully: 12318639208776142063
+2018-07-10 12:03:41,281:gp_crawl:website has been downloaded succesfully: 1401176404416699929
+2018-07-10 12:03:44,899:gp_crawl:website has been downloaded succesfully: 14277085104083754580
+2018-07-10 12:03:48,564:gp_crawl:website has been downloaded succesfully: 360875453707549723
+2018-07-10 12:03:52,819:gp_crawl:website has been downloaded succesfully: 8356491053641952047
+2018-07-10 12:03:55,797:gp_crawl:website has been downloaded succesfully: 7875933074006332567
+2018-07-10 12:03:59,255:gp_crawl:website has been downloaded succesfully: 6677395615195590099
+2018-07-10 12:04:02,750:gp_crawl:website has been downloaded succesfully: 7068514584052770021
+2018-07-10 12:04:04,196:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb36847ec70> 
+2018-07-10 12:04:04,196:gp_crawl:there is a live data <built-in method strip of str object at 0x7fb36847ec70> 
+2018-07-10 12:04:06,235:gp_crawl:website has been downloaded succesfully: 8412313382019570378
+2018-07-10 12:05:01,487:gp_crawl:website has been downloaded succesfully: 2094289961905910787
+2018-07-10 12:05:05,014:gp_crawl:website has been downloaded succesfully: 12774600043546122111
+2018-07-10 12:05:06,473:gp_crawl:there is a live data <built-in method strip of str object at 0x7ff99244e8b0> 
+2018-07-10 12:05:08,328:gp_crawl:website has been downloaded succesfully: 12318639208776142063
+2018-07-10 12:05:11,875:gp_crawl:website has been downloaded succesfully: 1401176404416699929
+2018-07-10 12:05:15,658:gp_crawl:website has been downloaded succesfully: 14277085104083754580
+2018-07-10 12:05:19,605:gp_crawl:website has been downloaded succesfully: 360875453707549723
+2018-07-10 12:05:23,678:gp_crawl:website has been downloaded succesfully: 8356491053641952047
+2018-07-10 12:05:26,795:gp_crawl:website has been downloaded succesfully: 7875933074006332567
+2018-07-10 12:05:30,313:gp_crawl:website has been downloaded succesfully: 6677395615195590099
+2018-07-10 12:05:33,788:gp_crawl:website has been downloaded succesfully: 7068514584052770021
+2018-07-10 12:05:35,257:gp_crawl:there is a live data <built-in method strip of str object at 0x7ff991d3ac70> 
+2018-07-10 12:05:35,258:gp_crawl:there is a live data <built-in method strip of str object at 0x7ff991d3ac70> 
+2018-07-10 12:05:37,025:gp_crawl:website has been downloaded succesfully: 8412313382019570378
+2018-07-10 12:05:39,628:gp_crawl:website has been downloaded succesfully: 9088343541366031693
+2018-07-10 12:05:41,186:gp_crawl:there is a live data <built-in method strip of str object at 0x7ff991c0d3b0> 
+2018-07-10 12:05:43,821:gp_crawl:website has been downloaded succesfully: 14669298887010826561
+2018-07-10 12:05:47,528:gp_crawl:website has been downloaded succesfully: 16491695520809968593
+2018-07-10 12:05:50,247:gp_crawl:website has been downloaded succesfully: 14325741004077145715
+2018-07-10 12:05:53,820:gp_crawl:website has been downloaded succesfully: 2609659045186037900
+2018-07-10 12:05:57,337:gp_crawl:website has been downloaded succesfully: 4568551785050955177
+2018-07-10 12:06:00,230:gp_crawl:website has been downloaded succesfully: 811172368309289480
+2018-07-10 12:06:04,186:gp_crawl:website has been downloaded succesfully: 13200923463430641660
+2018-07-10 12:06:06,123:gp_crawl:there is a live data <built-in method strip of str object at 0x7ff991c84c30> 
+2018-07-10 12:06:07,946:gp_crawl:website has been downloaded succesfully: 16184645792545790747
+2018-07-10 12:06:09,528:gp_crawl:there is a live data <built-in method strip of str object at 0x7ff991c84cb0> 
+2018-07-10 12:06:11,311:gp_crawl:website has been downloaded succesfully: 9296532431552592956
+2018-07-10 12:06:14,899:gp_crawl:website has been downloaded succesfully: 12683913566908584528
+2018-07-10 12:06:16,363:gp_crawl:there is a live data <built-in method strip of str object at 0x7ff991c84d70> 
+2018-07-10 12:06:18,338:gp_crawl:website has been downloaded succesfully: 15418311406194346831
+2018-07-10 12:06:22,038:gp_crawl:website has been downloaded succesfully: 14922271454829110818
+2018-07-10 12:06:23,609:gp_crawl:there is a live data <built-in method strip of str object at 0x7ff991c84e70> 
+2018-07-10 12:06:25,965:gp_crawl:website has been downloaded succesfully: 5870667610985525954
+2018-07-10 12:06:27,534:gp_crawl:there is a live data <built-in method strip of str object at 0x7ff991c0d4c8> 
+2018-07-10 12:06:29,626:gp_crawl:website has been downloaded succesfully: 17782696297143832339
+2018-07-10 12:06:32,969:gp_crawl:website has been downloaded succesfully: 4707666365904255024
+2018-07-10 12:06:36,758:gp_crawl:website has been downloaded succesfully: 12930890699277132186
+2018-07-10 12:06:38,245:gp_crawl:The busyhour information for current station is in the different formation
+2018-07-10 12:07:46,483:gp_crawl:website has been downloaded succesfully: 2094289961905910787
+2018-07-10 12:07:49,846:gp_crawl:website has been downloaded succesfully: 12774600043546122111
+2018-07-10 12:07:51,333:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fe622e30> 
+2018-07-10 12:07:53,447:gp_crawl:website has been downloaded succesfully: 12318639208776142063
+2018-07-10 12:07:57,263:gp_crawl:website has been downloaded succesfully: 1401176404416699929
+2018-07-10 12:08:01,234:gp_crawl:website has been downloaded succesfully: 14277085104083754580
+2018-07-10 12:08:04,604:gp_crawl:website has been downloaded succesfully: 360875453707549723
+2018-07-10 12:08:08,545:gp_crawl:website has been downloaded succesfully: 8356491053641952047
+2018-07-10 12:08:11,431:gp_crawl:website has been downloaded succesfully: 7875933074006332567
+2018-07-10 12:08:14,908:gp_crawl:website has been downloaded succesfully: 6677395615195590099
+2018-07-10 12:08:18,603:gp_crawl:website has been downloaded succesfully: 7068514584052770021
+2018-07-10 12:08:20,137:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fcee6c70> 
+2018-07-10 12:08:20,138:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fcee6c70> 
+2018-07-10 12:08:21,991:gp_crawl:website has been downloaded succesfully: 8412313382019570378
+2018-07-10 12:08:24,731:gp_crawl:website has been downloaded succesfully: 9088343541366031693
+2018-07-10 12:08:26,525:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fcdb93b0> 
+2018-07-10 12:08:28,510:gp_crawl:website has been downloaded succesfully: 14669298887010826561
+2018-07-10 12:08:32,376:gp_crawl:website has been downloaded succesfully: 16491695520809968593
+2018-07-10 12:08:35,290:gp_crawl:website has been downloaded succesfully: 14325741004077145715
+2018-07-10 12:08:38,626:gp_crawl:website has been downloaded succesfully: 2609659045186037900
+2018-07-10 12:08:42,035:gp_crawl:website has been downloaded succesfully: 4568551785050955177
+2018-07-10 12:08:44,743:gp_crawl:website has been downloaded succesfully: 811172368309289480
+2018-07-10 12:08:48,710:gp_crawl:website has been downloaded succesfully: 13200923463430641660
+2018-07-10 12:08:50,863:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fce32bf0> 
+2018-07-10 12:08:52,809:gp_crawl:website has been downloaded succesfully: 16184645792545790747
+2018-07-10 12:08:54,674:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fce32c70> 
+2018-07-10 12:08:56,759:gp_crawl:website has been downloaded succesfully: 9296532431552592956
+2018-07-10 12:09:00,342:gp_crawl:website has been downloaded succesfully: 12683913566908584528
+2018-07-10 12:09:01,865:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fce32d30> 
+2018-07-10 12:09:04,006:gp_crawl:website has been downloaded succesfully: 15418311406194346831
+2018-07-10 12:09:07,725:gp_crawl:website has been downloaded succesfully: 14922271454829110818
+2018-07-10 12:09:09,316:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fce32e30> 
+2018-07-10 12:09:11,352:gp_crawl:website has been downloaded succesfully: 5870667610985525954
+2018-07-10 12:09:13,152:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fcdb94c8> 
+2018-07-10 12:09:15,273:gp_crawl:website has been downloaded succesfully: 17782696297143832339
+2018-07-10 12:09:18,713:gp_crawl:website has been downloaded succesfully: 4707666365904255024
+2018-07-10 12:09:22,445:gp_crawl:website has been downloaded succesfully: 12930890699277132186
+2018-07-10 12:09:25,959:gp_crawl:website has been downloaded succesfully: 15720501747367431575
+2018-07-10 12:09:29,405:gp_crawl:website has been downloaded succesfully: 15564067830775030371
+2018-07-10 12:09:31,412:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fcdbd0f0> 
+2018-07-10 12:09:33,221:gp_crawl:website has been downloaded succesfully: 9579242362896770546
+2018-07-10 12:09:36,757:gp_crawl:website has been downloaded succesfully: 17233343761771760056
+2018-07-10 12:09:40,218:gp_crawl:website has been downloaded succesfully: 7088780393328529816
+2018-07-10 12:09:43,752:gp_crawl:website has been downloaded succesfully: 6841945153540148391
+2018-07-10 12:09:47,330:gp_crawl:website has been downloaded succesfully: 2299039736585879831
+2018-07-10 12:09:55,694:gp_crawl:website has been downloaded succesfully: 14996875053312183120
+2018-07-10 12:09:59,465:gp_crawl:website has been downloaded succesfully: 4135923137556733311
+2018-07-10 12:10:01,051:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fcdb9618> 
+2018-07-10 12:10:03,122:gp_crawl:website has been downloaded succesfully: 7949567729942413552
+2018-07-10 12:10:04,706:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fcdb9650> 
+2018-07-10 12:10:06,668:gp_crawl:website has been downloaded succesfully: 16107165039942440347
+2018-07-10 12:10:10,259:gp_crawl:website has been downloaded succesfully: 2357732847270267407
+2018-07-10 12:10:13,807:gp_crawl:website has been downloaded succesfully: 1206024629463146237
+2018-07-10 12:10:17,308:gp_crawl:website has been downloaded succesfully: 4615954961213230235
+2018-07-10 12:10:18,937:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fcdb96f8> 
+2018-07-10 12:10:20,932:gp_crawl:website has been downloaded succesfully: 663447381992042734
+2018-07-10 12:10:24,675:gp_crawl:website has been downloaded succesfully: 4356159268129788928
+2018-07-10 12:10:28,317:gp_crawl:website has been downloaded succesfully: 5339067562905045275
+2018-07-10 12:10:29,902:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fcdb97a0> 
+2018-07-10 12:10:31,818:gp_crawl:website has been downloaded succesfully: 13527033269035833383
+2018-07-10 12:10:35,206:gp_crawl:website has been downloaded succesfully: 9525357729693586737
+2018-07-10 12:10:36,687:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fcdb97d8> 
+2018-07-10 12:10:38,935:gp_crawl:website has been downloaded succesfully: 13370143666442146412
+2018-07-10 12:10:42,654:gp_crawl:website has been downloaded succesfully: 5404823653698154368
+2018-07-10 12:10:44,249:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fcdb9810> 
+2018-07-10 12:10:46,017:gp_crawl:website has been downloaded succesfully: 243685463035708442
+2018-07-10 12:10:49,471:gp_crawl:website has been downloaded succesfully: 6703999818863261736
+2018-07-10 12:10:51,065:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fcdb9880> 
+2018-07-10 12:10:52,963:gp_crawl:website has been downloaded succesfully: 15514332450439677246
+2018-07-10 12:10:56,595:gp_crawl:website has been downloaded succesfully: 5283942134612666316
+2018-07-10 12:10:58,219:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fcdb98b8> 
+2018-07-10 12:11:00,218:gp_crawl:website has been downloaded succesfully: 13916067609697875711
+2018-07-10 12:11:03,710:gp_crawl:website has been downloaded succesfully: 12674559189877719971
+2018-07-10 12:11:05,630:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fcdbd930> 
+2018-07-10 12:11:07,631:gp_crawl:website has been downloaded succesfully: 16878201440095375764
+2018-07-10 12:11:11,256:gp_crawl:website has been downloaded succesfully: 9255854014236724455
+2018-07-10 12:11:15,032:gp_crawl:website has been downloaded succesfully: 15878340069627212949
+2018-07-10 12:11:18,637:gp_crawl:website has been downloaded succesfully: 13655221970068854755
+2018-07-10 12:11:20,227:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fcdbdaf0> 
+2018-07-10 12:11:22,275:gp_crawl:website has been downloaded succesfully: 12499727444467489946
+2018-07-10 12:11:23,879:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fcdbdb70> 
+2018-07-10 12:11:25,792:gp_crawl:website has been downloaded succesfully: 17469658565178433733
+2018-07-10 12:11:29,314:gp_crawl:website has been downloaded succesfully: 1885151669715275099
+2018-07-10 12:11:33,318:gp_crawl:website has been downloaded succesfully: 16805302275475760872
+2018-07-10 12:11:37,012:gp_crawl:website has been downloaded succesfully: 18118946976997353778
+2018-07-10 12:11:41,323:gp_crawl:website has been downloaded succesfully: 11527387921629945526
+2018-07-10 12:11:44,975:gp_crawl:website has been downloaded succesfully: 15853166867579252941
+2018-07-10 12:11:48,812:gp_crawl:website has been downloaded succesfully: 17225422167045921247
+2018-07-10 12:11:50,344:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fcdbdeb0> 
+2018-07-10 12:11:52,269:gp_crawl:website has been downloaded succesfully: 16022109149478686501
+2018-07-10 12:11:53,869:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fcdbdf30> 
+2018-07-10 12:11:56,033:gp_crawl:website has been downloaded succesfully: 13291760898679736873
+2018-07-10 12:11:59,494:gp_crawl:website has been downloaded succesfully: 55899946879897071
+2018-07-10 12:12:03,363:gp_crawl:website has been downloaded succesfully: 11385787011325440022
+2018-07-10 12:12:07,203:gp_crawl:website has been downloaded succesfully: 2191503477524475955
+2018-07-10 12:12:10,957:gp_crawl:website has been downloaded succesfully: 13658936254673291938
+2018-07-10 12:12:12,580:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fcdbf170> 
+2018-07-10 12:12:14,856:gp_crawl:website has been downloaded succesfully: 5210416296094386307
+2018-07-10 12:12:16,640:gp_crawl:there is a live data <built-in method strip of str object at 0x7f97fcdb99d0> 
+2018-07-10 12:57:30,611:gp_crawl:website has been downloaded succesfully: 2094289961905910787
+2018-07-10 12:57:34,027:gp_crawl:website has been downloaded succesfully: 12774600043546122111
+2018-07-10 12:57:35,476:gp_crawl:There is a live data 12774600043546122111 
+2018-07-10 12:57:37,571:gp_crawl:website has been downloaded succesfully: 12318639208776142063
+2018-07-10 12:57:41,127:gp_crawl:website has been downloaded succesfully: 1401176404416699929
+2018-07-10 12:57:44,801:gp_crawl:website has been downloaded succesfully: 14277085104083754580
+2018-07-10 12:57:48,430:gp_crawl:website has been downloaded succesfully: 360875453707549723
+2018-07-10 12:57:52,347:gp_crawl:website has been downloaded succesfully: 8356491053641952047
+2018-07-10 12:57:55,295:gp_crawl:website has been downloaded succesfully: 7875933074006332567
+2018-07-10 12:57:58,845:gp_crawl:website has been downloaded succesfully: 6677395615195590099
+2018-07-10 12:58:02,330:gp_crawl:website has been downloaded succesfully: 7068514584052770021
+2018-07-10 12:58:03,751:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 12:58:03,751:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 12:58:05,801:gp_crawl:website has been downloaded succesfully: 8412313382019570378
+2018-07-10 12:58:08,406:gp_crawl:website has been downloaded succesfully: 9088343541366031693
+2018-07-10 12:58:09,942:gp_crawl:There is a live data 9088343541366031693 
+2018-07-10 12:58:11,947:gp_crawl:website has been downloaded succesfully: 14669298887010826561
+2018-07-10 12:58:15,565:gp_crawl:website has been downloaded succesfully: 16491695520809968593
+2018-07-10 12:58:18,287:gp_crawl:website has been downloaded succesfully: 14325741004077145715
+2018-07-10 12:58:21,751:gp_crawl:website has been downloaded succesfully: 2609659045186037900
+2018-07-10 12:58:25,219:gp_crawl:website has been downloaded succesfully: 4568551785050955177
+2018-07-10 12:58:27,844:gp_crawl:website has been downloaded succesfully: 811172368309289480
+2018-07-10 12:58:31,458:gp_crawl:website has been downloaded succesfully: 13200923463430641660
+2018-07-10 12:58:33,572:gp_crawl:There is a live data 13200923463430641660 
+2018-07-10 12:58:35,622:gp_crawl:website has been downloaded succesfully: 16184645792545790747
+2018-07-10 12:58:37,196:gp_crawl:There is a live data 16184645792545790747 
+2018-07-10 12:58:39,228:gp_crawl:website has been downloaded succesfully: 9296532431552592956
+2018-07-10 12:58:42,710:gp_crawl:website has been downloaded succesfully: 12683913566908584528
+2018-07-10 12:58:44,324:gp_crawl:There is a live data 12683913566908584528 
+2018-07-10 12:58:46,197:gp_crawl:website has been downloaded succesfully: 15418311406194346831
+2018-07-10 12:58:49,902:gp_crawl:website has been downloaded succesfully: 14922271454829110818
+2018-07-10 12:58:51,645:gp_crawl:There is a live data 14922271454829110818 
+2018-07-10 12:58:53,474:gp_crawl:website has been downloaded succesfully: 5870667610985525954
+2018-07-10 12:58:55,030:gp_crawl:There is a live data 5870667610985525954 
+2018-07-10 12:58:57,315:gp_crawl:website has been downloaded succesfully: 17782696297143832339
+2018-07-10 12:59:00,873:gp_crawl:website has been downloaded succesfully: 4707666365904255024
+2018-07-10 12:59:04,623:gp_crawl:website has been downloaded succesfully: 12930890699277132186
+2018-07-10 12:59:07,978:gp_crawl:website has been downloaded succesfully: 15720501747367431575
+2018-07-10 12:59:11,481:gp_crawl:website has been downloaded succesfully: 15564067830775030371
+2018-07-10 12:59:13,476:gp_crawl:There is a live data 15564067830775030371 
+2018-07-10 12:59:15,372:gp_crawl:website has been downloaded succesfully: 9579242362896770546
+2018-07-10 12:59:18,822:gp_crawl:website has been downloaded succesfully: 17233343761771760056
+2018-07-10 12:59:22,334:gp_crawl:website has been downloaded succesfully: 7088780393328529816
+2018-07-10 12:59:25,961:gp_crawl:website has been downloaded succesfully: 6841945153540148391
+2018-07-10 13:00:03,201:gp_crawl:website has been downloaded succesfully: 2094289961905910787
+2018-07-10 13:00:06,808:gp_crawl:website has been downloaded succesfully: 12774600043546122111
+2018-07-10 13:00:08,459:gp_crawl:There is a live data 12774600043546122111 
+2018-07-10 13:00:10,866:gp_crawl:website has been downloaded succesfully: 12318639208776142063
+2018-07-10 13:00:14,802:gp_crawl:website has been downloaded succesfully: 1401176404416699929
+2018-07-10 13:00:18,597:gp_crawl:website has been downloaded succesfully: 14277085104083754580
+2018-07-10 13:00:22,612:gp_crawl:website has been downloaded succesfully: 360875453707549723
+2018-07-10 13:00:26,816:gp_crawl:website has been downloaded succesfully: 8356491053641952047
+2018-07-10 13:00:29,854:gp_crawl:website has been downloaded succesfully: 7875933074006332567
+2018-07-10 13:00:33,209:gp_crawl:website has been downloaded succesfully: 6677395615195590099
+2018-07-10 13:00:37,032:gp_crawl:website has been downloaded succesfully: 7068514584052770021
+2018-07-10 13:00:38,703:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 13:00:38,704:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 13:00:40,770:gp_crawl:website has been downloaded succesfully: 8412313382019570378
+2018-07-10 13:00:43,763:gp_crawl:website has been downloaded succesfully: 9088343541366031693
+2018-07-10 13:00:45,520:gp_crawl:There is a live data 9088343541366031693 
+2018-07-10 13:00:47,722:gp_crawl:website has been downloaded succesfully: 14669298887010826561
+2018-07-10 13:00:51,701:gp_crawl:website has been downloaded succesfully: 16491695520809968593
+2018-07-10 13:00:54,837:gp_crawl:website has been downloaded succesfully: 14325741004077145715
+2018-07-10 13:00:58,836:gp_crawl:website has been downloaded succesfully: 2609659045186037900
+2018-07-10 13:01:02,458:gp_crawl:website has been downloaded succesfully: 4568551785050955177
+2018-07-10 13:01:05,273:gp_crawl:website has been downloaded succesfully: 811172368309289480
+2018-07-10 13:01:09,201:gp_crawl:website has been downloaded succesfully: 13200923463430641660
+2018-07-10 13:01:11,374:gp_crawl:There is a live data 13200923463430641660 
+2018-07-10 13:01:13,588:gp_crawl:website has been downloaded succesfully: 16184645792545790747
+2018-07-10 13:01:15,389:gp_crawl:There is a live data 16184645792545790747 
+2018-07-10 13:01:17,380:gp_crawl:website has been downloaded succesfully: 9296532431552592956
+2018-07-10 13:01:21,029:gp_crawl:website has been downloaded succesfully: 12683913566908584528
+2018-07-10 13:01:22,710:gp_crawl:There is a live data 12683913566908584528 
+2018-07-10 13:01:24,735:gp_crawl:website has been downloaded succesfully: 15418311406194346831
+2018-07-10 13:01:28,442:gp_crawl:website has been downloaded succesfully: 14922271454829110818
+2018-07-10 13:01:30,091:gp_crawl:There is a live data 14922271454829110818 
+2018-07-10 13:01:32,144:gp_crawl:website has been downloaded succesfully: 5870667610985525954
+2018-07-10 13:01:33,969:gp_crawl:There is a live data 5870667610985525954 
+2018-07-10 13:01:36,111:gp_crawl:website has been downloaded succesfully: 17782696297143832339
+2018-07-10 13:01:39,936:gp_crawl:website has been downloaded succesfully: 4707666365904255024
+2018-07-10 13:01:43,554:gp_crawl:website has been downloaded succesfully: 12930890699277132186
+2018-07-10 13:01:47,050:gp_crawl:website has been downloaded succesfully: 15720501747367431575
+2018-07-10 13:01:50,778:gp_crawl:website has been downloaded succesfully: 15564067830775030371
+2018-07-10 13:01:52,758:gp_crawl:There is a live data 15564067830775030371 
+2018-07-10 13:01:54,740:gp_crawl:website has been downloaded succesfully: 9579242362896770546
+2018-07-10 13:01:58,238:gp_crawl:website has been downloaded succesfully: 17233343761771760056
+2018-07-10 13:02:02,029:gp_crawl:website has been downloaded succesfully: 7088780393328529816
+2018-07-10 13:02:06,228:gp_crawl:website has been downloaded succesfully: 6841945153540148391
+2018-07-10 13:02:10,101:gp_crawl:website has been downloaded succesfully: 2299039736585879831
+2018-07-10 13:02:13,850:gp_crawl:website has been downloaded succesfully: 14996875053312183120
+2018-07-10 13:02:17,863:gp_crawl:website has been downloaded succesfully: 4135923137556733311
+2018-07-10 13:02:19,633:gp_crawl:There is a live data 4135923137556733311 
+2018-07-10 13:02:21,888:gp_crawl:website has been downloaded succesfully: 7949567729942413552
+2018-07-10 13:02:23,469:gp_crawl:There is a live data 7949567729942413552 
+2018-07-10 13:02:25,513:gp_crawl:website has been downloaded succesfully: 16107165039942440347
+2018-07-10 13:02:28,888:gp_crawl:website has been downloaded succesfully: 2357732847270267407
+2018-07-10 13:02:32,738:gp_crawl:website has been downloaded succesfully: 1206024629463146237
+2018-07-10 13:02:36,319:gp_crawl:website has been downloaded succesfully: 4615954961213230235
+2018-07-10 13:02:37,921:gp_crawl:There is a live data 4615954961213230235 
+2018-07-10 13:02:39,819:gp_crawl:website has been downloaded succesfully: 663447381992042734
+2018-07-10 13:02:43,756:gp_crawl:website has been downloaded succesfully: 4356159268129788928
+2018-07-10 13:02:47,732:gp_crawl:website has been downloaded succesfully: 5339067562905045275
+2018-07-10 13:02:49,372:gp_crawl:There is a live data 5339067562905045275 
+2018-07-10 13:02:51,472:gp_crawl:website has been downloaded succesfully: 13527033269035833383
+2018-07-10 13:02:54,984:gp_crawl:website has been downloaded succesfully: 9525357729693586737
+2018-07-10 13:02:56,461:gp_crawl:There is a live data 9525357729693586737 
+2018-07-10 13:02:58,310:gp_crawl:website has been downloaded succesfully: 13370143666442146412
+2018-07-10 13:03:01,984:gp_crawl:website has been downloaded succesfully: 5404823653698154368
+2018-07-10 13:03:03,586:gp_crawl:There is a live data 5404823653698154368 
+2018-07-10 13:03:05,724:gp_crawl:website has been downloaded succesfully: 243685463035708442
+2018-07-10 13:03:09,243:gp_crawl:website has been downloaded succesfully: 6703999818863261736
+2018-07-10 13:03:10,820:gp_crawl:There is a live data 6703999818863261736 
+2018-07-10 13:03:12,808:gp_crawl:website has been downloaded succesfully: 15514332450439677246
+2018-07-10 13:03:16,372:gp_crawl:website has been downloaded succesfully: 5283942134612666316
+2018-07-10 13:03:18,002:gp_crawl:There is a live data 5283942134612666316 
+2018-07-10 13:03:19,988:gp_crawl:website has been downloaded succesfully: 13916067609697875711
+2018-07-10 13:03:23,333:gp_crawl:website has been downloaded succesfully: 12674559189877719971
+2018-07-10 13:03:25,257:gp_crawl:There is a live data 12674559189877719971 
+2018-07-10 13:03:27,279:gp_crawl:website has been downloaded succesfully: 16878201440095375764
+2018-07-10 13:03:30,810:gp_crawl:website has been downloaded succesfully: 9255854014236724455
+2018-07-10 13:03:34,861:gp_crawl:website has been downloaded succesfully: 15878340069627212949
+2018-07-10 13:03:38,634:gp_crawl:website has been downloaded succesfully: 13655221970068854755
+2018-07-10 13:03:40,211:gp_crawl:There is a live data 13655221970068854755 
+2018-07-10 13:03:42,491:gp_crawl:website has been downloaded succesfully: 12499727444467489946
+2018-07-10 13:03:44,127:gp_crawl:There is a live data 12499727444467489946 
+2018-07-10 13:03:46,042:gp_crawl:website has been downloaded succesfully: 17469658565178433733
+2018-07-10 13:03:49,588:gp_crawl:website has been downloaded succesfully: 1885151669715275099
+2018-07-10 13:03:53,622:gp_crawl:website has been downloaded succesfully: 16805302275475760872
+2018-07-10 13:03:57,327:gp_crawl:website has been downloaded succesfully: 18118946976997353778
+2018-07-10 13:04:01,475:gp_crawl:website has been downloaded succesfully: 11527387921629945526
+2018-07-10 13:04:04,994:gp_crawl:website has been downloaded succesfully: 15853166867579252941
+2018-07-10 13:04:07,922:gp_crawl:website has been downloaded succesfully: 17225422167045921247
+2018-07-10 13:04:09,431:gp_crawl:There is a live data 17225422167045921247 
+2018-07-10 13:04:11,559:gp_crawl:website has been downloaded succesfully: 16022109149478686501
+2018-07-10 13:04:13,132:gp_crawl:There is a live data 16022109149478686501 
+2018-07-10 13:04:15,307:gp_crawl:website has been downloaded succesfully: 13291760898679736873
+2018-07-10 13:04:19,009:gp_crawl:website has been downloaded succesfully: 55899946879897071
+2018-07-10 13:04:22,749:gp_crawl:website has been downloaded succesfully: 11385787011325440022
+2018-07-10 13:04:26,332:gp_crawl:website has been downloaded succesfully: 2191503477524475955
+2018-07-10 13:04:30,072:gp_crawl:website has been downloaded succesfully: 13658936254673291938
+2018-07-10 13:04:31,681:gp_crawl:There is a live data 13658936254673291938 
+2018-07-10 13:04:33,970:gp_crawl:website has been downloaded succesfully: 5210416296094386307
+2018-07-10 13:04:35,638:gp_crawl:There is a live data 5210416296094386307 
+2018-07-10 13:09:04,478:gp_crawl:website has been downloaded succesfully: 2094289961905910787
+2018-07-10 13:09:08,272:gp_crawl:website has been downloaded succesfully: 12774600043546122111
+2018-07-10 13:09:09,723:gp_crawl:There is a live data 12774600043546122111 
+2018-07-10 13:09:11,820:gp_crawl:website has been downloaded succesfully: 12318639208776142063
+2018-07-10 13:09:15,250:gp_crawl:website has been downloaded succesfully: 1401176404416699929
+2018-07-10 13:09:18,608:gp_crawl:website has been downloaded succesfully: 14277085104083754580
+2018-07-10 13:09:22,315:gp_crawl:website has been downloaded succesfully: 360875453707549723
+2018-07-10 13:09:25,959:gp_crawl:website has been downloaded succesfully: 8356491053641952047
+2018-07-10 13:09:28,771:gp_crawl:website has been downloaded succesfully: 7875933074006332567
+2018-07-10 13:09:32,311:gp_crawl:website has been downloaded succesfully: 6677395615195590099
+2018-07-10 13:09:35,809:gp_crawl:website has been downloaded succesfully: 7068514584052770021
+2018-07-10 13:09:37,272:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 13:09:37,272:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 13:09:39,263:gp_crawl:website has been downloaded succesfully: 8412313382019570378
+2018-07-10 13:09:41,896:gp_crawl:website has been downloaded succesfully: 9088343541366031693
+2018-07-10 13:09:43,447:gp_crawl:There is a live data 9088343541366031693 
+2018-07-10 13:09:45,825:gp_crawl:website has been downloaded succesfully: 14669298887010826561
+2018-07-10 13:09:49,186:gp_crawl:website has been downloaded succesfully: 16491695520809968593
+2018-07-10 13:09:51,988:gp_crawl:website has been downloaded succesfully: 14325741004077145715
+2018-07-10 13:09:55,804:gp_crawl:website has been downloaded succesfully: 2609659045186037900
+2018-07-10 13:09:59,325:gp_crawl:website has been downloaded succesfully: 4568551785050955177
+2018-07-10 13:10:01,998:gp_crawl:website has been downloaded succesfully: 811172368309289480
+2018-07-10 13:10:05,443:gp_crawl:website has been downloaded succesfully: 13200923463430641660
+2018-07-10 13:10:07,413:gp_crawl:There is a live data 13200923463430641660 
+2018-07-10 13:10:09,300:gp_crawl:website has been downloaded succesfully: 16184645792545790747
+2018-07-10 13:10:10,915:gp_crawl:There is a live data 16184645792545790747 
+2018-07-10 13:10:12,834:gp_crawl:website has been downloaded succesfully: 9296532431552592956
+2018-07-10 13:10:16,270:gp_crawl:website has been downloaded succesfully: 12683913566908584528
+2018-07-10 13:10:17,754:gp_crawl:There is a live data 12683913566908584528 
+2018-07-10 13:10:19,716:gp_crawl:website has been downloaded succesfully: 15418311406194346831
+2018-07-10 13:10:23,252:gp_crawl:website has been downloaded succesfully: 14922271454829110818
+2018-07-10 13:10:24,845:gp_crawl:There is a live data 14922271454829110818 
+2018-07-10 13:10:26,714:gp_crawl:website has been downloaded succesfully: 5870667610985525954
+2018-07-10 13:10:28,291:gp_crawl:There is a live data 5870667610985525954 
+2018-07-10 13:10:30,491:gp_crawl:website has been downloaded succesfully: 17782696297143832339
+2018-07-10 13:10:34,102:gp_crawl:website has been downloaded succesfully: 4707666365904255024
+2018-07-10 13:10:37,828:gp_crawl:website has been downloaded succesfully: 12930890699277132186
+2018-07-10 13:10:41,177:gp_crawl:website has been downloaded succesfully: 15720501747367431575
+2018-07-10 13:10:44,666:gp_crawl:website has been downloaded succesfully: 15564067830775030371
+2018-07-10 13:10:46,662:gp_crawl:There is a live data 15564067830775030371 
+2018-07-10 13:10:48,653:gp_crawl:website has been downloaded succesfully: 9579242362896770546
+2018-07-10 13:10:51,934:gp_crawl:website has been downloaded succesfully: 17233343761771760056
+2018-07-10 13:10:55,396:gp_crawl:website has been downloaded succesfully: 7088780393328529816
+2018-07-10 13:10:58,852:gp_crawl:website has been downloaded succesfully: 6841945153540148391
+2018-07-10 13:11:02,345:gp_crawl:website has been downloaded succesfully: 2299039736585879831
+2018-07-10 13:11:05,898:gp_crawl:website has been downloaded succesfully: 14996875053312183120
+2018-07-10 13:11:09,903:gp_crawl:website has been downloaded succesfully: 4135923137556733311
+2018-07-10 13:11:11,672:gp_crawl:There is a live data 4135923137556733311 
+2018-07-10 13:11:13,882:gp_crawl:website has been downloaded succesfully: 7949567729942413552
+2018-07-10 13:11:15,477:gp_crawl:There is a live data 7949567729942413552 
+2018-07-10 13:11:17,338:gp_crawl:website has been downloaded succesfully: 16107165039942440347
+2018-07-10 13:11:20,965:gp_crawl:website has been downloaded succesfully: 2357732847270267407
+2018-07-10 13:11:24,665:gp_crawl:website has been downloaded succesfully: 1206024629463146237
+2018-07-10 13:11:28,649:gp_crawl:website has been downloaded succesfully: 4615954961213230235
+2018-07-10 13:11:30,246:gp_crawl:There is a live data 4615954961213230235 
+2018-07-10 13:11:32,403:gp_crawl:website has been downloaded succesfully: 663447381992042734
+2018-07-10 13:11:36,254:gp_crawl:website has been downloaded succesfully: 4356159268129788928
+2018-07-10 13:11:40,209:gp_crawl:website has been downloaded succesfully: 5339067562905045275
+2018-07-10 13:11:41,841:gp_crawl:There is a live data 5339067562905045275 
+2018-07-10 13:11:44,016:gp_crawl:website has been downloaded succesfully: 13527033269035833383
+2018-07-10 13:11:47,831:gp_crawl:website has been downloaded succesfully: 9525357729693586737
+2018-07-10 13:11:49,308:gp_crawl:There is a live data 9525357729693586737 
+2018-07-10 13:11:51,327:gp_crawl:website has been downloaded succesfully: 13370143666442146412
+2018-07-10 13:11:54,975:gp_crawl:website has been downloaded succesfully: 5404823653698154368
+2018-07-10 13:11:56,561:gp_crawl:There is a live data 5404823653698154368 
+2018-07-10 13:11:59,438:gp_crawl:website has been downloaded succesfully: 243685463035708442
+2018-07-10 13:12:02,997:gp_crawl:website has been downloaded succesfully: 6703999818863261736
+2018-07-10 13:12:04,574:gp_crawl:There is a live data 6703999818863261736 
+2018-07-10 13:12:07,829:gp_crawl:website has been downloaded succesfully: 15514332450439677246
+2018-07-10 13:25:07,398:gp_crawl:website has been downloaded succesfully: 2094289961905910787
+2018-07-10 13:25:10,894:gp_crawl:website has been downloaded succesfully: 12774600043546122111
+2018-07-10 13:25:12,363:gp_crawl:There is a live data 12774600043546122111 
+2018-07-10 13:25:14,490:gp_crawl:website has been downloaded succesfully: 12318639208776142063
+2018-07-10 13:25:17,904:gp_crawl:website has been downloaded succesfully: 1401176404416699929
+2018-07-10 13:25:21,558:gp_crawl:website has been downloaded succesfully: 14277085104083754580
+2018-07-10 13:25:25,186:gp_crawl:website has been downloaded succesfully: 360875453707549723
+2018-07-10 13:25:29,468:gp_crawl:website has been downloaded succesfully: 8356491053641952047
+2018-07-10 13:25:32,627:gp_crawl:website has been downloaded succesfully: 7875933074006332567
+2018-07-10 13:25:36,291:gp_crawl:website has been downloaded succesfully: 6677395615195590099
+2018-07-10 13:25:39,962:gp_crawl:website has been downloaded succesfully: 7068514584052770021
+2018-07-10 13:25:41,433:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 13:25:41,434:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 13:25:43,470:gp_crawl:website has been downloaded succesfully: 8412313382019570378
+2018-07-10 13:25:46,328:gp_crawl:website has been downloaded succesfully: 9088343541366031693
+2018-07-10 13:25:47,903:gp_crawl:There is a live data 9088343541366031693 
+2018-07-10 13:25:50,022:gp_crawl:website has been downloaded succesfully: 14669298887010826561
+2018-07-10 13:25:53,840:gp_crawl:website has been downloaded succesfully: 16491695520809968593
+2018-07-10 13:25:56,780:gp_crawl:website has been downloaded succesfully: 14325741004077145715
+2018-07-10 13:26:00,166:gp_crawl:website has been downloaded succesfully: 2609659045186037900
+2018-07-10 13:26:03,952:gp_crawl:website has been downloaded succesfully: 4568551785050955177
+2018-07-10 13:26:06,767:gp_crawl:website has been downloaded succesfully: 811172368309289480
+2018-07-10 13:26:10,335:gp_crawl:website has been downloaded succesfully: 13200923463430641660
+2018-07-10 13:26:12,313:gp_crawl:There is a live data 13200923463430641660 
+2018-07-10 13:26:14,322:gp_crawl:website has been downloaded succesfully: 16184645792545790747
+2018-07-10 13:26:15,940:gp_crawl:There is a live data 16184645792545790747 
+2018-07-10 13:26:18,257:gp_crawl:website has been downloaded succesfully: 9296532431552592956
+2018-07-10 13:26:22,333:gp_crawl:website has been downloaded succesfully: 12683913566908584528
+2018-07-10 13:26:24,006:gp_crawl:There is a live data 12683913566908584528 
+2018-07-10 13:26:25,991:gp_crawl:website has been downloaded succesfully: 15418311406194346831
+2018-07-10 13:26:29,901:gp_crawl:website has been downloaded succesfully: 14922271454829110818
+2018-07-10 13:26:31,568:gp_crawl:There is a live data 14922271454829110818 
+2018-07-10 13:26:33,451:gp_crawl:website has been downloaded succesfully: 5870667610985525954
+2018-07-10 13:26:35,059:gp_crawl:There is a live data 5870667610985525954 
+2018-07-10 13:26:37,299:gp_crawl:website has been downloaded succesfully: 17782696297143832339
+2018-07-10 13:26:40,869:gp_crawl:website has been downloaded succesfully: 4707666365904255024
+2018-07-10 13:26:44,424:gp_crawl:website has been downloaded succesfully: 12930890699277132186
+2018-07-10 13:26:47,696:gp_crawl:website has been downloaded succesfully: 15720501747367431575
+2018-07-10 13:26:51,342:gp_crawl:website has been downloaded succesfully: 15564067830775030371
+2018-07-10 13:26:53,362:gp_crawl:There is a live data 15564067830775030371 
+2018-07-10 13:26:55,742:gp_crawl:website has been downloaded succesfully: 9579242362896770546
+2018-07-10 13:26:59,444:gp_crawl:website has been downloaded succesfully: 17233343761771760056
+2018-07-10 13:27:03,209:gp_crawl:website has been downloaded succesfully: 7088780393328529816
+2018-07-10 13:27:07,175:gp_crawl:website has been downloaded succesfully: 6841945153540148391
+2018-07-10 13:27:10,765:gp_crawl:website has been downloaded succesfully: 2299039736585879831
+2018-07-10 13:27:14,890:gp_crawl:website has been downloaded succesfully: 14996875053312183120
+2018-07-10 13:27:18,779:gp_crawl:website has been downloaded succesfully: 4135923137556733311
+2018-07-10 13:27:20,398:gp_crawl:There is a live data 4135923137556733311 
+2018-07-10 13:27:22,462:gp_crawl:website has been downloaded succesfully: 7949567729942413552
+2018-07-10 13:27:24,079:gp_crawl:There is a live data 7949567729942413552 
+2018-07-10 13:27:26,376:gp_crawl:website has been downloaded succesfully: 16107165039942440347
+2018-07-10 13:27:30,261:gp_crawl:website has been downloaded succesfully: 2357732847270267407
+2018-07-10 13:27:34,301:gp_crawl:website has been downloaded succesfully: 1206024629463146237
+2018-07-10 13:27:37,858:gp_crawl:website has been downloaded succesfully: 4615954961213230235
+2018-07-10 13:27:39,464:gp_crawl:There is a live data 4615954961213230235 
+2018-07-10 13:27:41,614:gp_crawl:website has been downloaded succesfully: 663447381992042734
+2018-07-10 13:27:45,198:gp_crawl:website has been downloaded succesfully: 4356159268129788928
+2018-07-10 13:27:48,828:gp_crawl:website has been downloaded succesfully: 5339067562905045275
+2018-07-10 13:27:50,425:gp_crawl:There is a live data 5339067562905045275 
+2018-07-10 13:27:52,397:gp_crawl:website has been downloaded succesfully: 13527033269035833383
+2018-07-10 13:27:56,411:gp_crawl:website has been downloaded succesfully: 9525357729693586737
+2018-07-10 13:27:57,953:gp_crawl:There is a live data 9525357729693586737 
+2018-07-10 13:28:00,391:gp_crawl:website has been downloaded succesfully: 13370143666442146412
+2018-07-10 13:28:04,148:gp_crawl:website has been downloaded succesfully: 5404823653698154368
+2018-07-10 13:28:05,734:gp_crawl:There is a live data 5404823653698154368 
+2018-07-10 13:28:07,720:gp_crawl:website has been downloaded succesfully: 243685463035708442
+2018-07-10 13:28:11,367:gp_crawl:website has been downloaded succesfully: 6703999818863261736
+2018-07-10 13:28:12,965:gp_crawl:There is a live data 6703999818863261736 
+2018-07-10 13:28:15,336:gp_crawl:website has been downloaded succesfully: 15514332450439677246
+2018-07-10 13:28:19,003:gp_crawl:website has been downloaded succesfully: 5283942134612666316
+2018-07-10 13:28:20,619:gp_crawl:There is a live data 5283942134612666316 
+2018-07-10 13:28:22,656:gp_crawl:website has been downloaded succesfully: 13916067609697875711
+2018-07-10 13:28:26,141:gp_crawl:website has been downloaded succesfully: 12674559189877719971
+2018-07-10 13:28:28,080:gp_crawl:There is a live data 12674559189877719971 
+2018-07-10 13:28:30,411:gp_crawl:website has been downloaded succesfully: 16878201440095375764
+2018-07-10 13:28:34,267:gp_crawl:website has been downloaded succesfully: 9255854014236724455
+2018-07-10 13:28:38,739:gp_crawl:website has been downloaded succesfully: 15878340069627212949
+2018-07-10 13:28:42,461:gp_crawl:website has been downloaded succesfully: 13655221970068854755
+2018-07-10 13:28:44,067:gp_crawl:There is a live data 13655221970068854755 
+2018-07-10 13:28:46,155:gp_crawl:website has been downloaded succesfully: 12499727444467489946
+2018-07-10 13:28:47,733:gp_crawl:There is a live data 12499727444467489946 
+2018-07-10 13:28:49,947:gp_crawl:website has been downloaded succesfully: 17469658565178433733
+2018-07-10 13:28:53,810:gp_crawl:website has been downloaded succesfully: 1885151669715275099
+2018-07-10 13:28:57,909:gp_crawl:website has been downloaded succesfully: 16805302275475760872
+2018-07-10 13:29:01,685:gp_crawl:website has been downloaded succesfully: 18118946976997353778
+2018-07-10 13:29:05,809:gp_crawl:website has been downloaded succesfully: 11527387921629945526
+2018-07-10 13:29:09,367:gp_crawl:website has been downloaded succesfully: 15853166867579252941
+2018-07-10 13:29:12,353:gp_crawl:website has been downloaded succesfully: 17225422167045921247
+2018-07-10 13:29:13,885:gp_crawl:There is a live data 17225422167045921247 
+2018-07-10 13:29:15,922:gp_crawl:website has been downloaded succesfully: 16022109149478686501
+2018-07-10 13:29:17,525:gp_crawl:There is a live data 16022109149478686501 
+2018-07-10 13:29:19,652:gp_crawl:website has been downloaded succesfully: 13291760898679736873
+2018-07-10 13:29:23,223:gp_crawl:website has been downloaded succesfully: 55899946879897071
+2018-07-10 13:29:26,884:gp_crawl:website has been downloaded succesfully: 11385787011325440022
+2018-07-10 13:29:30,364:gp_crawl:website has been downloaded succesfully: 2191503477524475955
+2018-07-10 13:29:34,004:gp_crawl:website has been downloaded succesfully: 13658936254673291938
+2018-07-10 13:29:35,614:gp_crawl:There is a live data 13658936254673291938 
+2018-07-10 13:29:37,862:gp_crawl:website has been downloaded succesfully: 5210416296094386307
+2018-07-10 13:29:39,525:gp_crawl:There is a live data 5210416296094386307 
+2018-07-10 13:55:44,104:gp_crawl:website has been downloaded succesfully: 2094289961905910787
+2018-07-10 13:55:47,687:gp_crawl:website has been downloaded succesfully: 12774600043546122111
+2018-07-10 13:55:49,136:gp_crawl:There is a live data 12774600043546122111 
+2018-07-10 13:55:51,244:gp_crawl:website has been downloaded succesfully: 12318639208776142063
+2018-07-10 13:55:55,004:gp_crawl:website has been downloaded succesfully: 1401176404416699929
+2018-07-10 13:55:59,276:gp_crawl:website has been downloaded succesfully: 14277085104083754580
+2018-07-10 13:56:03,189:gp_crawl:website has been downloaded succesfully: 360875453707549723
+2018-07-10 13:56:07,311:gp_crawl:website has been downloaded succesfully: 8356491053641952047
+2018-07-10 13:56:10,340:gp_crawl:website has been downloaded succesfully: 7875933074006332567
+2018-07-10 13:56:14,121:gp_crawl:website has been downloaded succesfully: 6677395615195590099
+2018-07-10 13:56:17,781:gp_crawl:website has been downloaded succesfully: 7068514584052770021
+2018-07-10 13:56:19,206:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 13:56:19,207:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 13:56:21,305:gp_crawl:website has been downloaded succesfully: 8412313382019570378
+2018-07-10 13:56:24,106:gp_crawl:website has been downloaded succesfully: 9088343541366031693
+2018-07-10 13:56:25,633:gp_crawl:There is a live data 9088343541366031693 
+2018-07-10 13:56:27,859:gp_crawl:website has been downloaded succesfully: 14669298887010826561
+2018-07-10 13:56:31,664:gp_crawl:website has been downloaded succesfully: 16491695520809968593
+2018-07-10 13:56:34,823:gp_crawl:website has been downloaded succesfully: 14325741004077145715
+2018-07-10 13:58:21,454:gp_crawl:There is a live data 12774600043546122111 
+2018-07-10 13:58:52,296:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 13:58:52,296:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 13:58:59,018:gp_crawl:There is a live data 9088343541366031693 
+2018-07-10 13:59:23,619:gp_crawl:There is a live data 13200923463430641660 
+2018-07-10 13:59:27,603:gp_crawl:There is a live data 16184645792545790747 
+2018-07-10 13:59:34,321:gp_crawl:There is a live data 12683913566908584528 
+2018-07-10 13:59:41,586:gp_crawl:There is a live data 14922271454829110818 
+2018-07-10 13:59:45,238:gp_crawl:There is a live data 5870667610985525954 
+2018-07-10 13:59:56,188:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 13:59:56,188:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 13:59:56,188:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 13:59:56,189:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 13:59:56,189:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 14:00:04,097:gp_crawl:There is a live data 15564067830775030371 
+2018-07-10 14:00:07,809:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 14:00:07,809:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 14:00:07,809:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 14:00:07,809:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 14:00:07,809:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 14:00:07,809:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 14:00:07,809:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 14:00:09,070:gp_crawl:There is a live data 12774600043546122111 
+2018-07-10 14:00:31,944:gp_crawl:There is a live data 4135923137556733311 
+2018-07-10 14:00:35,565:gp_crawl:There is a live data 7949567729942413552 
+2018-07-10 14:00:41,893:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 14:00:41,894:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 14:00:48,635:gp_crawl:There is a live data 9088343541366031693 
+2018-07-10 14:00:51,348:gp_crawl:There is a live data 4615954961213230235 
+2018-07-10 14:01:03,733:gp_crawl:There is a live data 5339067562905045275 
+2018-07-10 14:01:11,853:gp_crawl:There is a live data 9525357729693586737 
+2018-07-10 14:01:16,949:gp_crawl:There is a live data 13200923463430641660 
+2018-07-10 14:01:19,623:gp_crawl:There is a live data 5404823653698154368 
+2018-07-10 14:01:21,367:gp_crawl:There is a live data 16184645792545790747 
+2018-07-10 14:01:27,383:gp_crawl:There is a live data 6703999818863261736 
+2018-07-10 14:01:29,780:gp_crawl:There is a live data 12683913566908584528 
+2018-07-10 14:01:35,436:gp_crawl:There is a live data 5283942134612666316 
+2018-07-10 14:01:37,721:gp_crawl:There is a live data 14922271454829110818 
+2018-07-10 14:01:41,461:gp_crawl:There is a live data 5870667610985525954 
+2018-07-10 14:01:43,434:gp_crawl:There is a live data 12674559189877719971 
+2018-07-10 14:01:53,315:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 14:01:53,315:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 14:01:53,315:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 14:01:53,315:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 14:01:53,315:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 14:01:59,860:gp_crawl:There is a live data 13655221970068854755 
+2018-07-10 14:02:02,196:gp_crawl:There is a live data 15564067830775030371 
+2018-07-10 14:02:03,565:gp_crawl:There is a live data 12499727444467489946 
+2018-07-10 14:02:06,034:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 14:02:06,035:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 14:02:06,035:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 14:02:06,035:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 14:02:06,035:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 14:02:06,035:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 14:02:06,035:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 14:02:30,169:gp_crawl:There is a live data 4135923137556733311 
+2018-07-10 14:02:31,602:gp_crawl:There is a live data 17225422167045921247 
+2018-07-10 14:02:34,548:gp_crawl:There is a live data 7949567729942413552 
+2018-07-10 14:02:36,207:gp_crawl:There is a live data 16022109149478686501 
+2018-07-10 14:02:50,145:gp_crawl:There is a live data 4615954961213230235 
+2018-07-10 14:02:55,885:gp_crawl:There is a live data 13658936254673291938 
+2018-07-10 14:02:59,962:gp_crawl:There is a live data 5210416296094386307 
+2018-07-10 14:03:01,826:gp_crawl:There is a live data 5339067562905045275 
+2018-07-10 14:03:09,716:gp_crawl:There is a live data 9525357729693586737 
+2018-07-10 14:03:17,351:gp_crawl:There is a live data 5404823653698154368 
+2018-07-10 14:03:25,236:gp_crawl:There is a live data 6703999818863261736 
+2018-07-10 14:03:33,975:gp_crawl:There is a live data 5283942134612666316 
+2018-07-10 14:03:41,993:gp_crawl:There is a live data 12674559189877719971 
+2018-07-10 14:03:58,572:gp_crawl:There is a live data 13655221970068854755 
+2018-07-10 14:04:02,462:gp_crawl:There is a live data 12499727444467489946 
+2018-07-10 14:04:31,444:gp_crawl:There is a live data 17225422167045921247 
+2018-07-10 14:04:34,975:gp_crawl:There is a live data 16022109149478686501 
+2018-07-10 14:04:53,551:gp_crawl:There is a live data 13658936254673291938 
+2018-07-10 14:04:57,055:gp_crawl:There is a live data 5210416296094386307 
+2018-07-10 15:00:08,627:gp_crawl:There is a live data 12774600043546122111 
+2018-07-10 15:00:37,373:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 15:00:37,374:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 15:00:43,492:gp_crawl:There is a live data 9088343541366031693 
+2018-07-10 15:01:06,873:gp_crawl:There is a live data 13200923463430641660 
+2018-07-10 15:01:10,608:gp_crawl:There is a live data 16184645792545790747 
+2018-07-10 15:01:17,291:gp_crawl:There is a live data 12683913566908584528 
+2018-07-10 15:01:24,441:gp_crawl:There is a live data 14922271454829110818 
+2018-07-10 15:01:28,012:gp_crawl:There is a live data 5870667610985525954 
+2018-07-10 15:01:38,290:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 15:01:38,290:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 15:01:38,290:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 15:01:38,290:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 15:01:38,290:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 15:01:45,671:gp_crawl:There is a live data 15564067830775030371 
+2018-07-10 15:01:48,882:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 15:01:48,883:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 15:01:48,883:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 15:01:48,883:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 15:01:48,883:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 15:01:48,883:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 15:01:48,883:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 15:02:10,052:gp_crawl:There is a live data 4135923137556733311 
+2018-07-10 15:02:13,465:gp_crawl:There is a live data 7949567729942413552 
+2018-07-10 15:02:27,344:gp_crawl:There is a live data 4615954961213230235 
+2018-07-10 15:02:38,097:gp_crawl:There is a live data 5339067562905045275 
+2018-07-10 15:02:45,298:gp_crawl:There is a live data 9525357729693586737 
+2018-07-10 15:02:52,219:gp_crawl:There is a live data 5404823653698154368 
+2018-07-10 15:02:59,365:gp_crawl:There is a live data 6703999818863261736 
+2018-07-10 15:03:06,407:gp_crawl:There is a live data 5283942134612666316 
+2018-07-10 15:03:13,568:gp_crawl:There is a live data 12674559189877719971 
+2018-07-10 15:03:28,476:gp_crawl:There is a live data 13655221970068854755 
+2018-07-10 15:03:31,830:gp_crawl:There is a live data 12499727444467489946 
+2018-07-10 15:03:57,505:gp_crawl:There is a live data 17225422167045921247 
+2018-07-10 15:04:01,281:gp_crawl:There is a live data 16022109149478686501 
+2018-07-10 15:04:18,846:gp_crawl:There is a live data 13658936254673291938 
+2018-07-10 15:04:22,638:gp_crawl:There is a live data 5210416296094386307 
+2018-07-10 16:00:08,846:gp_crawl:There is a live data 12774600043546122111 
+2018-07-10 16:00:38,304:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 16:00:38,304:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 16:00:44,764:gp_crawl:There is a live data 9088343541366031693 
+2018-07-10 16:01:08,613:gp_crawl:There is a live data 13200923463430641660 
+2018-07-10 16:01:12,235:gp_crawl:There is a live data 16184645792545790747 
+2018-07-10 16:01:19,408:gp_crawl:There is a live data 12683913566908584528 
+2018-07-10 16:01:27,459:gp_crawl:There is a live data 14922271454829110818 
+2018-07-10 16:01:30,940:gp_crawl:There is a live data 5870667610985525954 
+2018-07-10 16:01:41,491:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 16:01:41,491:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 16:01:41,491:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 16:01:41,491:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 16:01:41,491:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 16:01:48,818:gp_crawl:There is a live data 15564067830775030371 
+2018-07-10 16:01:52,526:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 16:01:52,526:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 16:01:52,526:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 16:01:52,526:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 16:01:52,526:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 16:01:52,526:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 16:01:52,526:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 16:02:13,756:gp_crawl:There is a live data 4135923137556733311 
+2018-07-10 16:02:17,221:gp_crawl:There is a live data 7949567729942413552 
+2018-07-10 16:02:31,946:gp_crawl:There is a live data 4615954961213230235 
+2018-07-10 16:02:42,576:gp_crawl:There is a live data 5339067562905045275 
+2018-07-10 16:02:49,351:gp_crawl:There is a live data 9525357729693586737 
+2018-07-10 16:02:56,694:gp_crawl:There is a live data 5404823653698154368 
+2018-07-10 16:03:04,012:gp_crawl:There is a live data 6703999818863261736 
+2018-07-10 16:03:11,083:gp_crawl:There is a live data 5283942134612666316 
+2018-07-10 16:03:18,742:gp_crawl:There is a live data 12674559189877719971 
+2018-07-10 16:03:33,744:gp_crawl:There is a live data 13655221970068854755 
+2018-07-10 16:03:37,328:gp_crawl:There is a live data 12499727444467489946 
+2018-07-10 16:04:02,405:gp_crawl:There is a live data 17225422167045921247 
+2018-07-10 16:04:05,836:gp_crawl:There is a live data 16022109149478686501 
+2018-07-10 16:04:24,153:gp_crawl:There is a live data 13658936254673291938 
+2018-07-10 16:04:27,958:gp_crawl:There is a live data 5210416296094386307 
+2018-07-10 17:00:08,174:gp_crawl:There is a live data 12774600043546122111 
+2018-07-10 17:00:36,869:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 17:00:36,869:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 17:00:42,929:gp_crawl:There is a live data 9088343541366031693 
+2018-07-10 17:01:06,752:gp_crawl:There is a live data 13200923463430641660 
+2018-07-10 17:01:10,056:gp_crawl:There is a live data 16184645792545790747 
+2018-07-10 17:01:16,748:gp_crawl:There is a live data 12683913566908584528 
+2018-07-10 17:01:23,823:gp_crawl:There is a live data 14922271454829110818 
+2018-07-10 17:01:27,312:gp_crawl:There is a live data 5870667610985525954 
+2018-07-10 17:01:37,668:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 17:01:37,668:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 17:01:37,668:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 17:01:37,668:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 17:01:37,668:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 17:01:44,825:gp_crawl:There is a live data 15564067830775030371 
+2018-07-10 17:01:48,253:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 17:01:48,253:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 17:01:48,254:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 17:01:48,254:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 17:01:48,254:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 17:01:48,254:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 17:01:48,254:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 17:02:09,433:gp_crawl:There is a live data 4135923137556733311 
+2018-07-10 17:02:12,867:gp_crawl:There is a live data 7949567729942413552 
+2018-07-10 17:02:26,524:gp_crawl:There is a live data 4615954961213230235 
+2018-07-10 17:02:37,676:gp_crawl:There is a live data 5339067562905045275 
+2018-07-10 17:02:44,558:gp_crawl:There is a live data 9525357729693586737 
+2018-07-10 17:02:51,797:gp_crawl:There is a live data 5404823653698154368 
+2018-07-10 17:02:58,386:gp_crawl:There is a live data 6703999818863261736 
+2018-07-10 17:03:05,342:gp_crawl:There is a live data 5283942134612666316 
+2018-07-10 17:03:12,340:gp_crawl:There is a live data 12674559189877719971 
+2018-07-10 17:03:26,772:gp_crawl:There is a live data 13655221970068854755 
+2018-07-10 17:03:30,409:gp_crawl:There is a live data 12499727444467489946 
+2018-07-10 17:03:55,201:gp_crawl:There is a live data 17225422167045921247 
+2018-07-10 17:03:58,712:gp_crawl:There is a live data 16022109149478686501 
+2018-07-10 17:04:16,246:gp_crawl:There is a live data 13658936254673291938 
+2018-07-10 17:04:19,776:gp_crawl:There is a live data 5210416296094386307 
+2018-07-10 18:00:07,827:gp_crawl:There is a live data 12774600043546122111 
+2018-07-10 18:00:35,222:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 18:00:35,222:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 18:00:40,890:gp_crawl:There is a live data 9088343541366031693 
+2018-07-10 18:01:05,346:gp_crawl:There is a live data 13200923463430641660 
+2018-07-10 18:01:09,397:gp_crawl:There is a live data 16184645792545790747 
+2018-07-10 18:01:17,359:gp_crawl:There is a live data 12683913566908584528 
+2018-07-10 18:01:24,389:gp_crawl:There is a live data 14922271454829110818 
+2018-07-10 18:01:28,113:gp_crawl:There is a live data 5870667610985525954 
+2018-07-10 18:01:38,738:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 18:01:38,739:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 18:01:38,739:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 18:01:38,739:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 18:01:38,739:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 18:01:45,920:gp_crawl:There is a live data 15564067830775030371 
+2018-07-10 18:01:49,219:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 18:01:49,219:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 18:01:49,219:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 18:01:49,219:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 18:01:49,219:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 18:01:49,219:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 18:01:49,219:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 18:02:10,886:gp_crawl:There is a live data 4135923137556733311 
+2018-07-10 18:02:14,338:gp_crawl:There is a live data 7949567729942413552 
+2018-07-10 18:02:28,943:gp_crawl:There is a live data 4615954961213230235 
+2018-07-10 18:02:39,531:gp_crawl:There is a live data 5339067562905045275 
+2018-07-10 18:02:46,284:gp_crawl:There is a live data 9525357729693586737 
+2018-07-10 18:02:53,761:gp_crawl:There is a live data 5404823653698154368 
+2018-07-10 18:03:00,421:gp_crawl:There is a live data 6703999818863261736 
+2018-07-10 18:03:07,464:gp_crawl:There is a live data 5283942134612666316 
+2018-07-10 18:03:14,449:gp_crawl:There is a live data 12674559189877719971 
+2018-07-10 18:03:28,996:gp_crawl:There is a live data 13655221970068854755 
+2018-07-10 18:03:32,403:gp_crawl:There is a live data 12499727444467489946 
+2018-07-10 18:03:57,739:gp_crawl:There is a live data 17225422167045921247 
+2018-07-10 18:04:01,268:gp_crawl:There is a live data 16022109149478686501 
+2018-07-10 18:04:18,600:gp_crawl:There is a live data 13658936254673291938 
+2018-07-10 18:04:22,015:gp_crawl:There is a live data 5210416296094386307 
+2018-07-10 19:00:08,394:gp_crawl:There is a live data 12774600043546122111 
+2018-07-10 19:00:36,266:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 19:00:36,267:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 19:00:42,434:gp_crawl:There is a live data 9088343541366031693 
+2018-07-10 19:01:05,434:gp_crawl:There is a live data 13200923463430641660 
+2018-07-10 19:01:08,955:gp_crawl:There is a live data 16184645792545790747 
+2018-07-10 19:01:15,877:gp_crawl:There is a live data 12683913566908584528 
+2018-07-10 19:01:22,712:gp_crawl:There is a live data 14922271454829110818 
+2018-07-10 19:01:26,032:gp_crawl:There is a live data 5870667610985525954 
+2018-07-10 19:01:36,517:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 19:01:36,517:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 19:01:36,517:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 19:01:36,517:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 19:01:36,517:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 19:01:43,804:gp_crawl:There is a live data 15564067830775030371 
+2018-07-10 19:01:47,520:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 19:01:47,520:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 19:01:47,520:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 19:01:47,520:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 19:01:47,520:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 19:01:47,520:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 19:01:47,520:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 19:02:07,979:gp_crawl:There is a live data 4135923137556733311 
+2018-07-10 19:02:11,522:gp_crawl:There is a live data 7949567729942413552 
+2018-07-10 19:02:25,701:gp_crawl:There is a live data 4615954961213230235 
+2018-07-10 19:02:36,596:gp_crawl:There is a live data 5339067562905045275 
+2018-07-10 19:02:43,209:gp_crawl:There is a live data 9525357729693586737 
+2018-07-10 19:02:50,233:gp_crawl:There is a live data 5404823653698154368 
+2018-07-10 19:02:57,274:gp_crawl:There is a live data 6703999818863261736 
+2018-07-10 19:03:04,423:gp_crawl:There is a live data 5283942134612666316 
+2018-07-10 19:03:11,746:gp_crawl:There is a live data 12674559189877719971 
+2018-07-10 19:03:27,249:gp_crawl:There is a live data 13655221970068854755 
+2018-07-10 19:03:30,787:gp_crawl:There is a live data 12499727444467489946 
+2018-07-10 19:03:56,298:gp_crawl:There is a live data 17225422167045921247 
+2018-07-10 19:03:59,623:gp_crawl:There is a live data 16022109149478686501 
+2018-07-10 19:04:17,115:gp_crawl:There is a live data 13658936254673291938 
+2018-07-10 19:04:20,604:gp_crawl:There is a live data 5210416296094386307 
+2018-07-10 20:00:07,623:gp_crawl:There is a live data 12774600043546122111 
+2018-07-10 20:00:34,585:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 20:00:34,585:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 20:00:40,844:gp_crawl:There is a live data 9088343541366031693 
+2018-07-10 20:01:04,490:gp_crawl:There is a live data 13200923463430641660 
+2018-07-10 20:01:08,306:gp_crawl:There is a live data 16184645792545790747 
+2018-07-10 20:01:15,590:gp_crawl:There is a live data 12683913566908584528 
+2018-07-10 20:01:22,746:gp_crawl:There is a live data 14922271454829110818 
+2018-07-10 20:01:26,368:gp_crawl:There is a live data 5870667610985525954 
+2018-07-10 20:01:37,059:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 20:01:37,060:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 20:01:37,060:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 20:01:37,060:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 20:01:37,060:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 20:01:44,607:gp_crawl:There is a live data 15564067830775030371 
+2018-07-10 20:01:48,347:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 20:01:48,348:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 20:01:48,348:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 20:01:48,348:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 20:01:48,348:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 20:01:48,348:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 20:01:48,348:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 20:02:09,971:gp_crawl:There is a live data 4135923137556733311 
+2018-07-10 20:02:13,540:gp_crawl:There is a live data 7949567729942413552 
+2018-07-10 20:02:27,972:gp_crawl:There is a live data 4615954961213230235 
+2018-07-10 20:02:39,001:gp_crawl:There is a live data 5339067562905045275 
+2018-07-10 20:02:46,429:gp_crawl:There is a live data 9525357729693586737 
+2018-07-10 20:02:53,441:gp_crawl:There is a live data 5404823653698154368 
+2018-07-10 20:03:00,359:gp_crawl:There is a live data 6703999818863261736 
+2018-07-10 20:03:07,567:gp_crawl:There is a live data 5283942134612666316 
+2018-07-10 20:03:14,735:gp_crawl:There is a live data 12674559189877719971 
+2018-07-10 20:03:29,513:gp_crawl:There is a live data 13655221970068854755 
+2018-07-10 20:03:33,341:gp_crawl:There is a live data 12499727444467489946 
+2018-07-10 20:03:59,545:gp_crawl:There is a live data 17225422167045921247 
+2018-07-10 20:04:03,157:gp_crawl:There is a live data 16022109149478686501 
+2018-07-10 20:04:21,244:gp_crawl:There is a live data 13658936254673291938 
+2018-07-10 20:04:24,867:gp_crawl:There is a live data 5210416296094386307 
+2018-07-10 21:00:08,712:gp_crawl:There is a live data 12774600043546122111 
+2018-07-10 21:00:37,611:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 21:00:37,612:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 21:00:43,765:gp_crawl:There is a live data 9088343541366031693 
+2018-07-10 21:01:07,159:gp_crawl:There is a live data 13200923463430641660 
+2018-07-10 21:01:10,836:gp_crawl:There is a live data 16184645792545790747 
+2018-07-10 21:01:17,726:gp_crawl:There is a live data 12683913566908584528 
+2018-07-10 21:01:24,490:gp_crawl:There is a live data 14922271454829110818 
+2018-07-10 21:01:28,177:gp_crawl:There is a live data 5870667610985525954 
+2018-07-10 21:01:38,597:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 21:01:38,597:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 21:01:38,597:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 21:01:38,597:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 21:01:38,597:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 21:01:46,238:gp_crawl:There is a live data 15564067830775030371 
+2018-07-10 21:01:49,467:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 21:01:49,467:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 21:01:49,467:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 21:01:49,467:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 21:01:49,467:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 21:01:49,467:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 21:01:49,467:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 21:02:10,722:gp_crawl:There is a live data 4135923137556733311 
+2018-07-10 21:02:13,990:gp_crawl:There is a live data 7949567729942413552 
+2018-07-10 21:02:28,248:gp_crawl:There is a live data 4615954961213230235 
+2018-07-10 21:02:38,657:gp_crawl:There is a live data 5339067562905045275 
+2018-07-10 21:02:45,539:gp_crawl:There is a live data 9525357729693586737 
+2018-07-10 21:02:52,392:gp_crawl:There is a live data 5404823653698154368 
+2018-07-10 21:03:05,959:gp_crawl:There is a live data 6703999818863261736 
+2018-07-10 21:03:13,091:gp_crawl:There is a live data 5283942134612666316 
+2018-07-10 21:03:20,151:gp_crawl:There is a live data 12674559189877719971 
+2018-07-10 21:03:35,245:gp_crawl:There is a live data 13655221970068854755 
+2018-07-10 21:03:38,571:gp_crawl:There is a live data 12499727444467489946 
+2018-07-10 21:04:03,443:gp_crawl:There is a live data 17225422167045921247 
+2018-07-10 21:04:06,900:gp_crawl:There is a live data 16022109149478686501 
+2018-07-10 21:04:23,966:gp_crawl:There is a live data 13658936254673291938 
+2018-07-10 21:04:27,609:gp_crawl:There is a live data 5210416296094386307 
+2018-07-10 22:00:08,299:gp_crawl:There is a live data 12774600043546122111 
+2018-07-10 22:00:34,966:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 22:00:34,966:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 22:00:41,669:gp_crawl:There is a live data 9088343541366031693 
+2018-07-10 22:01:05,404:gp_crawl:There is a live data 13200923463430641660 
+2018-07-10 22:01:09,231:gp_crawl:There is a live data 16184645792545790747 
+2018-07-10 22:01:16,257:gp_crawl:There is a live data 12683913566908584528 
+2018-07-10 22:01:23,401:gp_crawl:There is a live data 14922271454829110818 
+2018-07-10 22:01:26,776:gp_crawl:There is a live data 5870667610985525954 
+2018-07-10 22:01:36,985:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 22:01:36,985:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 22:01:36,986:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 22:01:36,986:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 22:01:36,986:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 22:01:44,355:gp_crawl:There is a live data 15564067830775030371 
+2018-07-10 22:01:48,143:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 22:01:48,143:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 22:01:48,144:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 22:01:48,144:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 22:01:48,144:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 22:01:48,144:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 22:01:48,144:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 22:02:08,662:gp_crawl:There is a live data 4135923137556733311 
+2018-07-10 22:02:12,107:gp_crawl:There is a live data 7949567729942413552 
+2018-07-10 22:02:26,525:gp_crawl:There is a live data 4615954961213230235 
+2018-07-10 22:02:37,213:gp_crawl:There is a live data 5339067562905045275 
+2018-07-10 22:02:44,149:gp_crawl:There is a live data 9525357729693586737 
+2018-07-10 22:02:51,305:gp_crawl:There is a live data 5404823653698154368 
+2018-07-10 22:02:58,202:gp_crawl:There is a live data 6703999818863261736 
+2018-07-10 22:03:05,288:gp_crawl:There is a live data 5283942134612666316 
+2018-07-10 22:03:12,677:gp_crawl:There is a live data 12674559189877719971 
+2018-07-10 22:03:26,892:gp_crawl:There is a live data 13655221970068854755 
+2018-07-10 22:03:30,218:gp_crawl:There is a live data 12499727444467489946 
+2018-07-10 22:03:54,326:gp_crawl:There is a live data 17225422167045921247 
+2018-07-10 22:03:57,808:gp_crawl:There is a live data 16022109149478686501 
+2018-07-10 22:04:14,909:gp_crawl:There is a live data 13658936254673291938 
+2018-07-10 22:04:18,421:gp_crawl:There is a live data 5210416296094386307 
+2018-07-10 23:00:08,344:gp_crawl:There is a live data 12774600043546122111 
+2018-07-10 23:00:35,342:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 23:00:35,343:gp_crawl:There is a live data 7068514584052770021 
+2018-07-10 23:00:41,429:gp_crawl:There is a live data 9088343541366031693 
+2018-07-10 23:01:05,664:gp_crawl:There is a live data 13200923463430641660 
+2018-07-10 23:01:09,200:gp_crawl:There is a live data 16184645792545790747 
+2018-07-10 23:01:16,015:gp_crawl:There is a live data 12683913566908584528 
+2018-07-10 23:01:22,842:gp_crawl:There is a live data 14922271454829110818 
+2018-07-10 23:01:26,306:gp_crawl:There is a live data 5870667610985525954 
+2018-07-10 23:01:36,638:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 23:01:36,638:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 23:01:36,638:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 23:01:36,638:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 23:01:36,638:gp_crawl:The Current Station 12930890699277132186 has different information format 
+2018-07-10 23:01:43,739:gp_crawl:There is a live data 15564067830775030371 
+2018-07-10 23:01:47,523:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 23:01:47,523:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 23:01:47,523:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 23:01:47,523:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 23:01:47,523:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 23:01:47,523:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 23:01:47,523:gp_crawl:The Current Station 9579242362896770546 has different information format 
+2018-07-10 23:02:08,392:gp_crawl:There is a live data 4135923137556733311 
+2018-07-10 23:02:11,958:gp_crawl:There is a live data 7949567729942413552 
+2018-07-10 23:02:26,016:gp_crawl:There is a live data 4615954961213230235 

@@ -1,0 +1,74 @@
+ChIJFRpbo0GdLIgRA3QR1J9pEB0|2094289961905910787|327 Dundas St E, Waterdown, ON L0R 2H6, Canada|122 Hamilton Regional Rd 5, Waterdown, ON L0R 2H5, Canada|97387
+ChIJwyH1a4abLIgRf5dBjw5_SLE|12774600043546122111|230 Cannon St E, Hamilton, ON L8L 0A9, Canada|147 Cannon St W, Hamilton, ON L8R 3P8, Canada|81514
+ChIJr7Cw51eXLIgR7wxN6xeZ9Ko|12318639208776142063|1333 Rymal Rd E, Hamilton, ON L8W 3N1, Canada|1970 Rymal Rd E, Hannon, ON L0R 1P0, Canada|196527
+ChIJ2dA8kzqeLIgRGZ7qHIT6cRM|1401176404416699929|1284 Lakeshore Rd, Burlington, ON L7S 1Y2, Canada|3000 Lakeshore Rd, Burlington, ON L7N 1A2, Canada|15233
+ChIJBbOccgSeLIgRVN7uSEJlIsY|14277085104083754580|2081 Fairview St, Burlington, ON L7R 2C8, Canada|335 York Rd, Burlington, ON L7R 3X5, Canada|19019
+ChIJo1fZpgWeLIgRG3xlKlAWAgU|360875453707549723|2081 Fairview St, Burlington, ON L7R 2C8, Canada|335 York Rd, Burlington, ON L7R 3X5, Canada|13836
+ChIJ-yOLAradLIgRL-sOtVY4-HM|8356491053641952047|2081 Fairview St, Burlington, ON L7R 2C8, Canada|335 York Rd, Burlington, ON L7R 3X5, Canada|147578
+ChIJLTHvxOCdLIgRl9Tl_mbvTG0|7875933074006332567|2081 Fairview St, Burlington, ON L7R 2C8, Canada|335 York Rd, Burlington, ON L7R 3X5, Canada|82286
+ChIJH73Jp-GdLIgR0-17BO_fqlw|6677395615195590099|2081 Fairview St, Burlington, ON L7R 2C8, Canada|335 York Rd, Burlington, ON L7R 3X5, Canada|18831
+ChIJtzzQxGmdLIgR5SQiSJBoGGI|7068514584052770021|327 Dundas St E, Waterdown, ON L0R 2H6, Canada|122 Hamilton Regional Rd 5, Waterdown, ON L0R 2H5, Canada|97382
+ChIJrfMKw7-YLIgRypqKWnOKvnQ|8412313382019570378|395 RR 20, Hamilton, ON L8E, Canada|118 RR 20, Hamilton, ON L8E, Canada|71072
+ChIJgSF0yL-YLIgRTYXWe0xIIH4|9088343541366031693|395 RR 20, Hamilton, ON L8E, Canada|118 RR 20, Hamilton, ON L8E, Canada|73989	
+ChIJGewX2b6YLIgRQTlQ0J3Rk8s|14669298887010826561|395 RR 20, Hamilton, ON L8E, Canada|118 RR 20, Hamilton, ON L8E, Canada|47272
+ChIJI_g-xr-YLIgR0WPHDbNF3uQ|16491695520809968593|395 RR 20, Hamilton, ON L8E, Canada|118 RR 20, Hamilton, ON L8E, Canada|8195
+ChIJj-0NgeWYLIgRcx5EzIpBz8Y|14325741004077145715|630 Hamilton Regional Rd 8, Hamilton, ON L8K 1K2, Canada|158 Hamilton Regional Rd 8, Stoney Creek, ON L8G 1C3, Canada|18805
+ChIJsxGGOe2YLIgRjOgyNRNfNyQ|2609659045186037900|630 Hamilton Regional Rd 8, Hamilton, ON L8K 1K2, Canada|158 Hamilton Regional Rd 8, Stoney Creek, ON L8G 1C3, Canada|15235
+ChIJv20j3JGYLIgRqV3wraTBZj8|4568551785050955177|630 Hamilton Regional Rd 8, Hamilton, ON L8K 1K2, Canada|158 Hamilton Regional Rd 8, Stoney Creek, ON L8G 1C3, Canada|88483
+ChIJK8L_1fWYLIgRCAKwoPjcQQs|811172368309289480|10 Owen Pl, Hamilton, ON L8G 2H2, Canada|3 Lake Ave Dr, Stoney Creek, ON L8G 1X5, Canada|9875
+ChIJ582Dn_eYLIgR_Bfn0PIZM7c|13200923463430641660|10 Owen Pl, Hamilton, ON L8G 2H2, Canada|3 Lake Ave Dr, Stoney Creek, ON L8G 1X5, Canada|11976
+ChIJDeqwetKYLIgRG1s2MJlpm-A|16184645792545790747|107 Harmony Ave, Hamilton, ON L8H 4X9, Canada|344 Talbot St, Hamilton, ON L8H 6T3, Canada|75824
+ChIJO-DYIyWZLIgRPDyXyf3qA4E|9296532431552592956|107 Harmony Ave, Hamilton, ON L8H 4X9, Canada|344 Talbot St, Hamilton, ON L8H 6T3, Canada|11979
+ChIJ1-xROSuZLIgRUBJY1S9QBrA|12683913566908584528|1004 Burlington St E, Hamilton, ON L8H, Canada|1894 Burlington St E, Hamilton, ON L8H 3L4, Canada|47273
+ChIJRT-e5hiZLIgRT0uRwojY-NU|15418311406194346831|307 Parkdale Ave N, Hamilton, ON L8H 5X8, Canada|120 Parkdale Ave S, Hamilton, ON L8K 3P3, Canada|9186
+ChIJ8aDajtCYLIgRImYKm9OOFs8|14922271454829110818|639 Woodward Ave, Hamilton, ON L8H 6P3, Canada|335 Woodward Ave, Hamilton, ON L8H 6N4, Canada|16910
+ChIJB899WeWZLIgRwvIuixbNeFE|5870667610985525954|835 Paramount Dr, Stoney Creek, ON L8J 0B4, Canada|1468 Stone Church Rd E, Hamilton, ON L8W 3V3, Canada|176750
+ChIJye7a_kGZLIgRE4_pwxDUyPY|17782696297143832339|1072 Main St E, Hamilton, ON L8M 1N6, Canada|1583 Hamilton Regional Rd 8, Hamilton, ON L8H 1C4, Canada|131597
+ChIJ1ZVh4EGZLIgRMPjGFJ79VEE|4707666365904255024|1072 Main St E, Hamilton, ON L8M 1N6, Canada|1583 Hamilton Regional Rd 8, Hamilton, ON L8H 1C4, Canada|27066
+ChIJVYkDrGeZLIgRmuHQh5TAc7M|12930890699277132186|1072 Main St E, Hamilton, ON L8M 1N6, Canada|1583 Hamilton Regional Rd 8, Hamilton, ON L8H 1C4, Canada|9186
+ChIJJbMvUPebLIgRl02-ZgxxKto|15720501747367431575|460 Barton St E, Hamilton, ON L8L 2Y6, Canada|200 Gage Ave N, Hamilton, ON L8L 3B8, Canada|47270
+ChIJDexQIVaZLIgRYyJu6Tqt_tc|15564067830775030371|766 Burlington St E, Hamilton, ON L8L 6P1, Canada|98 Depew St, Hamilton, ON L8L, Canada|74180
+ChIJFXv4XqyeLIgR8uXVES1O8IQ|9579242362896770546|486 Burlington St E, Hamilton, ON L8L 5X2, Canada|1311 Burlington St E, Hamilton, ON L8L 0A5, Canada|74179
+ChIJ81suUPebLIgRuImZXNgiKe8|17233343761771760056|1144 Hamilton Regional Rd 8, Hamilton, ON L8M, Canada|7 Mary St, Hamilton, ON L8R 1J6, Canada|18806
+ChIJmeMha-2bLIgRmNEZszVoYGI|7088780393328529816|1144 Hamilton Regional Rd 8, Hamilton, ON L8M, Canada|7 Mary St, Hamilton, ON L8R 1J6, Canada|1353
+ChIJdQYvL5KbLIgRp0x38d14814|6841945153540148391|129 John St S, Hamilton, ON L8N, Canada|467 Main St E, Hamilton, ON L8N 1K1, Canada|8874
+ChIJpVIgm5ubLIgRF4G1p3XU5x8|2299039736585879831|129 John St S, Hamilton, ON L8N, Canada|467 Main St E, Hamilton, ON L8N 1K1, Canada|70209
+ChIJeccduJqbLIgRUAuXdWeaH9A|14996875053312183120|129 John St S, Hamilton, ON L8N, Canada|467 Main St E, Hamilton, ON L8N 1K1, Canada|47271
+ChIJgdZCXGObLIgRf11jOC7AZTk|4135923137556733311|149 Dundurn St N, Hamilton, ON L8R 3M1, Canada|120 Chatham St, Hamilton, ON L8P, Canada|71708
+ChIJDSSGcGObLIgR8EAgVbuJUm4|7949567729942413552|149 Dundurn St N, Hamilton, ON L8R 3M1, Canada|120 Chatham St, Hamilton, ON L8P, Canada|5532
+ChIJGXyuSGSbLIgRmxVcsEMliN8|16107165039942440347|149 Dundurn St N, Hamilton, ON L8R 3M1, Canada|120 Chatham St, Hamilton, ON L8P, Canada|74181
+ChIJY5Fr82WbLIgRD4rQZIhZuCA|2357732847270267407|149 Dundurn St N, Hamilton, ON L8R 3M1, Canada|120 Chatham St, Hamilton, ON L8P, Canada|82289
+ChIJO-XgAVCbLIgR_d6FvQKpvBA|1206024629463146237|1623 Main St W, Hamilton, ON L8S 1G2, Canada|1003 Main St W, Hamilton, ON L8S 4P3, Canada|19190
+ChIJv9xSs7OELIgRmwxRspQqD0A|4615954961213230235|1623 Main St W, Hamilton, ON L8S 1G2, Canada|1003 Main St W, Hamilton, ON L8S 4P3, Canada|47275
+ChIJ87BID7GELIgR7nDM-uAJNQk|663447381992042734|1623 Main St W, Hamilton, ON L8S 1G2, Canada|1003 Main St W, Hamilton, ON L8S 4P3, Canada|47274
+ChIJMxmz-7CELIgRANTmQcYvdDw|4356159268129788928|1623 Main St W, Hamilton, ON L8S 1G2, Canada|1003 Main St W, Hamilton, ON L8S 4P3, Canada|47276
+ChIJlSC-KX6ZLIgRGwnELqktGEo|5339067562905045275|325 Upper Ottawa St, Hamilton, ON L8T 3S5, Canada|1192 Upper Ottawa St, Hamilton, ON L8W 1T8, Canada|13840
+ChIJBfPAUn6ZLIgRJ5jFwRatubs|13527033269035833383|325 Upper Ottawa St, Hamilton, ON L8T 3S5, Canada|1192 Upper Ottawa St, Hamilton, ON L8W 1T8, Canada|78259
+ChIJkfSxDymaLIgRMVXoPGPeMIQ|9525357729693586737|325 Upper Ottawa St, Hamilton, ON L8T 3S5, Canada|1192 Upper Ottawa St, Hamilton, ON L8W 1T8, Canada|99127
+ChIJRUJQeCaaLIgRbBI5mtNKjLk|13370143666442146412|325 Upper Ottawa St, Hamilton, ON L8T 3S5, Canada|1192 Upper Ottawa St, Hamilton, ON L8W 1T8, Canada|104101
+ChIJoTPC7DWaLIgRgK9OIHrKAUs|5404823653698154368|417 Mohawk Rd E, Hamilton, ON L8V, Canada|702 Mohawk Rd E, Hamilton, ON L8V 4K6, Canada|15232
+ChIJh2c6DEqaLIgRGoQrNaO-YQM|243685463035708442|417 Mohawk Rd E, Hamilton, ON L8V, Canada|702 Mohawk Rd E, Hamilton, ON L8V 4K6, Canada|16912
+ChIJcRJJMNqbLIgRKLig4VBkCV0|6703999818863261736|14 E 39th St, Hamilton, ON L8V 4H1, Canada|128 E 39th St, Hamilton, ON L8V 4H3, Canada|8438
+ChIJoSSOEWmaLIgRPsXFSyr7Tdc|15514332450439677246|492 Stone Church Rd E, Hamilton, ON L8W 3X5, Canada|1123 Stone Church Rd E, Hamilton, ON L8W 2C6, Canada|68724
+ChIJP_Pd7BSaLIgRzKdOO2BVVEk|5283942134612666316|492 Stone Church Rd E, Hamilton, ON L8W 3X5, Canada|1123 Stone Church Rd E, Hamilton, ON L8W 2C6, Canada|97187
+ChIJUVg0pxCaLIgR_3ZcssLNH8E|13916067609697875711|492 Stone Church Rd E, Hamilton, ON L8W 3X5, Canada|1123 Stone Church Rd E, Hamilton, ON L8W 2C6, Canada|189479
+ChIJ9f2AyQyaLIgRowNTNW4U5a8|12674559189877719971|766 Rymal Rd E, Hamilton, ON L8W 1B7, Canada|1112 Rymal Rd E, Hamilton, ON L8W 3N7, Canada|16914
+ChIJ_8vWHfiaLIgRlBFfBMlqO-o|16878201440095375764|151 Hester St, Hamilton, ON L9A 2N9, Canada|40 Upper Wellington St, Hamilton, ON L9A 5A6, Canada|13841
+ChIJY71e-5aaLIgR5wx0sy9mc4A|9255854014236724455|1171 Upper James St, Hamilton, ON L9C 3B2, Canada|1980 Upper James St, Hamilton, ON L9B 1K8, Canada|8875
+ChIJH_zSwSSQLIgRlTT7kCoyW9w|15878340069627212949|1171 Upper James St, Hamilton, ON L9C 3B2, Canada|1980 Upper James St, Hamilton, ON L9B 1K8, Canada|9184
+ChIJhSOA_KWILIgR41cQhwgYgb0|13655221970068854755|1406 Wilson St W, Ancaster, ON L9G 4V5, Canada|605 Southcote Rd, Ancaster, ON L9G 3L1, Canada|47263
+ChIJs4tj0CCbLIgRmpyvZOLzd60|12499727444467489946|408 Mohawk Rd W, Hamilton, ON L9C 1W9, Canada|810 Golf Links Rd, Hamilton, ON L9K 1L3, Canada|15234
+ChIJJzqrBimbLIgRxSDSJOixcPI|17469658565178433733|408 Mohawk Rd W, Hamilton, ON L9C 1W9, Canada|810 Golf Links Rd, Hamilton, ON L9K 1L3, Canada|11461
+ChIJYUH7QQKbLIgRWw0dpXRnKRo|1885151669715275099|1050 Upper James St, Hamilton, ON L9C 3A6, Canada|651 Upper James St, Hamilton, ON L9C, Canada|8194
+ChIJAT9yhv2aLIgR6ObLmGFtOOk|16805302275475760872|1050 Upper James St, Hamilton, ON L9C 3A6, Canada|651 Upper James St, Hamilton, ON L9C, Canada|5520
+ChIJZypZqv2aLIgRMqkQ_EZuc_s|18118946976997353778|1050 Upper James St, Hamilton, ON L9C 3A6, Canada|651 Upper James St, Hamilton, ON L9C, Canada|3173
+ChIJTU58EgKbLIgRtp7hcD2C-Z8|11527387921629945526|1050 Upper James St, Hamilton, ON L9C 3A6, Canada|651 Upper James St, Hamilton, ON L9C, Canada|84200
+ChIJ65otdv2aLIgRzbANu0XDAdw|15853166867579252941|1050 Upper James St, Hamilton, ON L9C 3A6, Canada|651 Upper James St, Hamilton, ON L9C, Canada|8439
+ChIJIfnMQQKbLIgR31npXDL-DO8|17225422167045921247|1050 Upper James St, Hamilton, ON L9C 3A6, Canada|651 Upper James St, Hamilton, ON L9C, Canada|9874
+ChIJD5DeV-yaLIgRJY8292H3Wd4|16022109149478686501|1171 Upper James St, Hamilton, ON L9C 3B2, Canada|1980 Upper James St, Hamilton, ON L9B 1K8, Canada|71058
+ChIJZ49KVHeFLIgRKYo7VR3Sdbg|13291760898679736873|1406 Wilson St W, Ancaster, ON L9G 4V5, Canada|605 Southcote Rd, Ancaster, ON L9G 3L1, Canada|47259
+ChIJNTODYpmELIgR7029nLSYxgA|55899946879897071|23 King St E, Dundas, ON L9H 1B7, Canada|Cootes Dr, Hamilton, ON L0R, Canada|47267
+ChIJ4w5v3JuELIgRFjBPWvZwAp4|11385787011325440022|23 King St E, Dundas, ON L9H 1B7, Canada|Cootes Dr, Hamilton, ON L0R, Canada|47266
+ChIJXYP01MaCLIgRMzDhPc3IaR4|2191503477524475955|77 Dundas St E, Waterdown, ON L0R 2H2|100 Coreslab Dr, Dundas, ON L9H 0B2|8072
+ChIJF54gzBuFLIgRooqBzSdKjr0|13658936254673291938|408 Mohawk Rd W, Hamilton, ON L9C 1W9, Canada|810 Golf Links Rd, Hamilton, ON L9K 1L3, Canada|5595
+ChIJ5VtZQyGFLIgRg8ic7AMeT0g|5210416296094386307|408 Mohawk Rd W, Hamilton, ON L9C 1W9, Canada|810 Golf Links Rd, Hamilton, ON L9K 1L3, Canada|3521

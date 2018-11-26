@@ -1,0 +1,507 @@
+2018-05-26 11:27:39,459:__main__:Load station data 1885151669715275099 successfully
+2018-05-26 11:27:39,550:__main__:Warning 1885151669715275099 : The json file returned by Google API doesn't include review key. Will try again 1 
+2018-05-26 11:27:39,648:__main__:Warning 1885151669715275099 : The json file returned by Google API doesn't include review key. Will try again 2 
+2018-05-26 11:27:39,733:__main__:Warning 1885151669715275099 : The json file returned by Google API doesn't include review key. Will try again 3 
+2018-05-26 11:27:39,822:__main__:Warning 1885151669715275099 : The json file returned by Google API doesn't include review key. Will try again 4 
+2018-05-26 11:27:39,905:__main__:Warning 1885151669715275099 : The json file returned by Google API doesn't include review key. Will try again 5 
+2018-05-26 11:27:39,988:__main__:Warning 1885151669715275099 : The json file returned by Google API doesn't include review key. Will try again 6 
+2018-05-26 11:27:39,989:__main__:Warning1885151669715275099 : Can't access the proper json file from server after trying 10 times
+2018-05-26 11:27:39,989:__main__:process 1885151669715275099 failed...
+2018-05-26 11:27:39,989:__main__:Traceback: 
+Traceback (most recent call last):
+  File "Daily_parse.py", line 81, in <module>
+    load_review_data(url,cid,0)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 42, in load_review_data
+    fileJ['result']['reviews']
+KeyError: 'result'
+2018-05-26 11:27:39,989:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:27:40,191:__main__:Load station data 14996875053312183120 successfully
+2018-05-26 11:27:40,292:__main__:Warning 14996875053312183120 : The json file returned by Google API doesn't include review key. Will try again 1 
+2018-05-26 11:27:40,377:__main__:Warning 14996875053312183120 : The json file returned by Google API doesn't include review key. Will try again 2 
+2018-05-26 11:27:40,460:__main__:Warning 14996875053312183120 : The json file returned by Google API doesn't include review key. Will try again 3 
+2018-05-26 11:27:40,563:__main__:Warning 14996875053312183120 : The json file returned by Google API doesn't include review key. Will try again 4 
+2018-05-26 11:27:40,668:__main__:Warning 14996875053312183120 : The json file returned by Google API doesn't include review key. Will try again 5 
+2018-05-26 11:27:40,758:__main__:Warning 14996875053312183120 : The json file returned by Google API doesn't include review key. Will try again 6 
+2018-05-26 11:27:40,758:__main__:Warning14996875053312183120 : Can't access the proper json file from server after trying 10 times
+2018-05-26 11:27:40,758:__main__:process 14996875053312183120 failed...
+2018-05-26 11:27:40,758:__main__:Traceback: 
+Traceback (most recent call last):
+  File "Daily_parse.py", line 81, in <module>
+    load_review_data(url,cid,0)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 42, in load_review_data
+    fileJ['result']['reviews']
+KeyError: 'result'
+2018-05-26 11:27:40,758:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:27:40,969:__main__:Load station data 4615954961213230235 successfully
+2018-05-26 11:27:41,056:__main__:Warning 4615954961213230235 : The json file returned by Google API doesn't include review key. Will try again 1 
+2018-05-26 11:27:41,157:__main__:Warning 4615954961213230235 : The json file returned by Google API doesn't include review key. Will try again 2 
+2018-05-26 11:27:41,261:__main__:Warning 4615954961213230235 : The json file returned by Google API doesn't include review key. Will try again 3 
+2018-05-26 11:27:41,360:__main__:Warning 4615954961213230235 : The json file returned by Google API doesn't include review key. Will try again 4 
+2018-05-26 11:27:41,446:__main__:Warning 4615954961213230235 : The json file returned by Google API doesn't include review key. Will try again 5 
+2018-05-26 11:27:41,523:__main__:Warning 4615954961213230235 : The json file returned by Google API doesn't include review key. Will try again 6 
+2018-05-26 11:27:41,523:__main__:Warning4615954961213230235 : Can't access the proper json file from server after trying 10 times
+2018-05-26 11:27:41,523:__main__:process 4615954961213230235 failed...
+2018-05-26 11:27:41,523:__main__:Traceback: 
+Traceback (most recent call last):
+  File "Daily_parse.py", line 81, in <module>
+    load_review_data(url,cid,0)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 42, in load_review_data
+    fileJ['result']['reviews']
+KeyError: 'result'
+2018-05-26 11:27:41,523:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:27:41,706:__main__:Load station data 4356159268129788928 successfully
+2018-05-26 11:27:41,795:__main__:Warning 4356159268129788928 : The json file returned by Google API doesn't include review key. Will try again 1 
+2018-05-26 11:27:41,884:__main__:Warning 4356159268129788928 : The json file returned by Google API doesn't include review key. Will try again 2 
+2018-05-26 11:27:41,981:__main__:Warning 4356159268129788928 : The json file returned by Google API doesn't include review key. Will try again 3 
+2018-05-26 11:27:42,073:__main__:Warning 4356159268129788928 : The json file returned by Google API doesn't include review key. Will try again 4 
+2018-05-26 11:27:42,163:__main__:Warning 4356159268129788928 : The json file returned by Google API doesn't include review key. Will try again 5 
+2018-05-26 11:27:42,246:__main__:Warning 4356159268129788928 : The json file returned by Google API doesn't include review key. Will try again 6 
+2018-05-26 11:27:42,246:__main__:Warning4356159268129788928 : Can't access the proper json file from server after trying 10 times
+2018-05-26 11:27:42,246:__main__:process 4356159268129788928 failed...
+2018-05-26 11:27:42,246:__main__:Traceback: 
+Traceback (most recent call last):
+  File "Daily_parse.py", line 81, in <module>
+    load_review_data(url,cid,0)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 42, in load_review_data
+    fileJ['result']['reviews']
+KeyError: 'result'
+2018-05-26 11:27:42,246:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:27:42,451:__main__:Load station data 7949567729942413552 successfully
+2018-05-26 11:27:42,553:__main__:Warning 7949567729942413552 : The json file returned by Google API doesn't include review key. Will try again 1 
+2018-05-26 11:27:42,641:__main__:Warning 7949567729942413552 : The json file returned by Google API doesn't include review key. Will try again 2 
+2018-05-26 11:27:42,735:__main__:Warning 7949567729942413552 : The json file returned by Google API doesn't include review key. Will try again 3 
+2018-05-26 11:27:42,842:__main__:Warning 7949567729942413552 : The json file returned by Google API doesn't include review key. Will try again 4 
+2018-05-26 11:27:42,947:__main__:Warning 7949567729942413552 : The json file returned by Google API doesn't include review key. Will try again 5 
+2018-05-26 11:27:43,045:__main__:Warning 7949567729942413552 : The json file returned by Google API doesn't include review key. Will try again 6 
+2018-05-26 11:27:43,045:__main__:Warning7949567729942413552 : Can't access the proper json file from server after trying 10 times
+2018-05-26 11:27:43,045:__main__:process 7949567729942413552 failed...
+2018-05-26 11:27:43,046:__main__:Traceback: 
+Traceback (most recent call last):
+  File "Daily_parse.py", line 81, in <module>
+    load_review_data(url,cid,0)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 42, in load_review_data
+    fileJ['result']['reviews']
+KeyError: 'result'
+2018-05-26 11:27:43,046:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:27:43,269:__main__:Load station data 2357732847270267407 successfully
+2018-05-26 11:27:43,374:__main__:Warning 2357732847270267407 : The json file returned by Google API doesn't include review key. Will try again 1 
+2018-05-26 11:27:43,469:__main__:Warning 2357732847270267407 : The json file returned by Google API doesn't include review key. Will try again 2 
+2018-05-26 11:27:43,568:__main__:Warning 2357732847270267407 : The json file returned by Google API doesn't include review key. Will try again 3 
+2018-05-26 11:27:43,657:__main__:Warning 2357732847270267407 : The json file returned by Google API doesn't include review key. Will try again 4 
+2018-05-26 11:27:43,746:__main__:Warning 2357732847270267407 : The json file returned by Google API doesn't include review key. Will try again 5 
+2018-05-26 11:27:43,835:__main__:Warning 2357732847270267407 : The json file returned by Google API doesn't include review key. Will try again 6 
+2018-05-26 11:27:43,835:__main__:Warning2357732847270267407 : Can't access the proper json file from server after trying 10 times
+2018-05-26 11:27:43,835:__main__:process 2357732847270267407 failed...
+2018-05-26 11:27:43,836:__main__:Traceback: 
+Traceback (most recent call last):
+  File "Daily_parse.py", line 81, in <module>
+    load_review_data(url,cid,0)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 42, in load_review_data
+    fileJ['result']['reviews']
+KeyError: 'result'
+2018-05-26 11:27:43,836:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:27:44,043:__main__:Load station data 18118946976997353778 successfully
+2018-05-26 11:27:44,136:__main__:Warning 18118946976997353778 : The json file returned by Google API doesn't include review key. Will try again 1 
+2018-05-26 11:27:44,226:__main__:Warning 18118946976997353778 : The json file returned by Google API doesn't include review key. Will try again 2 
+2018-05-26 11:27:44,315:__main__:Warning 18118946976997353778 : The json file returned by Google API doesn't include review key. Will try again 3 
+2018-05-26 11:27:44,398:__main__:Warning 18118946976997353778 : The json file returned by Google API doesn't include review key. Will try again 4 
+2018-05-26 11:27:44,483:__main__:Warning 18118946976997353778 : The json file returned by Google API doesn't include review key. Will try again 5 
+2018-05-26 11:27:44,605:__main__:Warning 18118946976997353778 : The json file returned by Google API doesn't include review key. Will try again 6 
+2018-05-26 11:27:44,606:__main__:Warning18118946976997353778 : Can't access the proper json file from server after trying 10 times
+2018-05-26 11:27:44,606:__main__:process 18118946976997353778 failed...
+2018-05-26 11:27:44,606:__main__:Traceback: 
+Traceback (most recent call last):
+  File "Daily_parse.py", line 81, in <module>
+    load_review_data(url,cid,0)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 42, in load_review_data
+    fileJ['result']['reviews']
+KeyError: 'result'
+2018-05-26 11:27:44,607:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:27:45,052:__main__:Load station data 4135923137556733311 successfully
+2018-05-26 11:27:45,157:__main__:Warning 4135923137556733311 : The json file returned by Google API doesn't include review key. Will try again 1 
+2018-05-26 11:27:45,253:__main__:Warning 4135923137556733311 : The json file returned by Google API doesn't include review key. Will try again 2 
+2018-05-26 11:27:45,351:__main__:Warning 4135923137556733311 : The json file returned by Google API doesn't include review key. Will try again 3 
+2018-05-26 11:27:45,436:__main__:Warning 4135923137556733311 : The json file returned by Google API doesn't include review key. Will try again 4 
+2018-05-26 11:27:45,524:__main__:Warning 4135923137556733311 : The json file returned by Google API doesn't include review key. Will try again 5 
+2018-05-26 11:27:45,622:__main__:Warning 4135923137556733311 : The json file returned by Google API doesn't include review key. Will try again 6 
+2018-05-26 11:27:45,622:__main__:Warning4135923137556733311 : Can't access the proper json file from server after trying 10 times
+2018-05-26 11:27:45,622:__main__:process 4135923137556733311 failed...
+2018-05-26 11:27:45,622:__main__:Traceback: 
+Traceback (most recent call last):
+  File "Daily_parse.py", line 81, in <module>
+    load_review_data(url,cid,0)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 42, in load_review_data
+    fileJ['result']['reviews']
+KeyError: 'result'
+2018-05-26 11:27:45,623:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:27:45,814:__main__:Load station data 663447381992042734 successfully
+2018-05-26 11:27:45,914:__main__:Warning 663447381992042734 : The json file returned by Google API doesn't include review key. Will try again 1 
+2018-05-26 11:27:46,007:__main__:Warning 663447381992042734 : The json file returned by Google API doesn't include review key. Will try again 2 
+2018-05-26 11:27:46,102:__main__:Warning 663447381992042734 : The json file returned by Google API doesn't include review key. Will try again 3 
+2018-05-26 11:27:46,216:__main__:Warning 663447381992042734 : The json file returned by Google API doesn't include review key. Will try again 4 
+2018-05-26 11:27:46,304:__main__:Warning 663447381992042734 : The json file returned by Google API doesn't include review key. Will try again 5 
+2018-05-26 11:27:46,385:__main__:Warning 663447381992042734 : The json file returned by Google API doesn't include review key. Will try again 6 
+2018-05-26 11:27:46,385:__main__:Warning663447381992042734 : Can't access the proper json file from server after trying 10 times
+2018-05-26 11:27:46,385:__main__:process 663447381992042734 failed...
+2018-05-26 11:27:46,385:__main__:Traceback: 
+Traceback (most recent call last):
+  File "Daily_parse.py", line 81, in <module>
+    load_review_data(url,cid,0)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 42, in load_review_data
+    fileJ['result']['reviews']
+KeyError: 'result'
+2018-05-26 11:27:46,386:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:27:46,588:__main__:Load station data 1206024629463146237 successfully
+2018-05-26 11:27:46,670:__main__:Warning 1206024629463146237 : The json file returned by Google API doesn't include review key. Will try again 1 
+2018-05-26 11:27:46,755:__main__:Warning 1206024629463146237 : The json file returned by Google API doesn't include review key. Will try again 2 
+2018-05-26 11:27:46,854:__main__:Warning 1206024629463146237 : The json file returned by Google API doesn't include review key. Will try again 3 
+2018-05-26 11:27:47,031:__main__:Warning 1206024629463146237 : The json file returned by Google API doesn't include review key. Will try again 4 
+2018-05-26 11:27:47,136:__main__:Warning 1206024629463146237 : The json file returned by Google API doesn't include review key. Will try again 5 
+2018-05-26 11:27:47,238:__main__:Warning 1206024629463146237 : The json file returned by Google API doesn't include review key. Will try again 6 
+2018-05-26 11:27:47,238:__main__:Warning1206024629463146237 : Can't access the proper json file from server after trying 10 times
+2018-05-26 11:27:47,238:__main__:process 1206024629463146237 failed...
+2018-05-26 11:27:47,238:__main__:Traceback: 
+Traceback (most recent call last):
+  File "Daily_parse.py", line 81, in <module>
+    load_review_data(url,cid,0)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 42, in load_review_data
+    fileJ['result']['reviews']
+KeyError: 'result'
+2018-05-26 11:27:47,238:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:27:47,442:__main__:Load station data 2299039736585879831 successfully
+2018-05-26 11:27:47,540:__main__:Warning 2299039736585879831 : The json file returned by Google API doesn't include review key. Will try again 1 
+2018-05-26 11:27:47,630:__main__:Warning 2299039736585879831 : The json file returned by Google API doesn't include review key. Will try again 2 
+2018-05-26 11:27:47,723:__main__:Warning 2299039736585879831 : The json file returned by Google API doesn't include review key. Will try again 3 
+2018-05-26 11:27:47,825:__main__:Warning 2299039736585879831 : The json file returned by Google API doesn't include review key. Will try again 4 
+2018-05-26 11:27:47,915:__main__:Warning 2299039736585879831 : The json file returned by Google API doesn't include review key. Will try again 5 
+2018-05-26 11:27:48,022:__main__:Warning 2299039736585879831 : The json file returned by Google API doesn't include review key. Will try again 6 
+2018-05-26 11:27:48,022:__main__:Warning2299039736585879831 : Can't access the proper json file from server after trying 10 times
+2018-05-26 11:27:48,022:__main__:process 2299039736585879831 failed...
+2018-05-26 11:27:48,022:__main__:Traceback: 
+Traceback (most recent call last):
+  File "Daily_parse.py", line 81, in <module>
+    load_review_data(url,cid,0)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 42, in load_review_data
+    fileJ['result']['reviews']
+KeyError: 'result'
+2018-05-26 11:27:48,022:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:27:48,254:__main__:Load station data 17469658565178433733 successfully
+2018-05-26 11:27:48,365:__main__:Warning 17469658565178433733 : The json file returned by Google API doesn't include review key. Will try again 1 
+2018-05-26 11:27:48,466:__main__:Warning 17469658565178433733 : The json file returned by Google API doesn't include review key. Will try again 2 
+2018-05-26 11:27:48,559:__main__:Warning 17469658565178433733 : The json file returned by Google API doesn't include review key. Will try again 3 
+2018-05-26 11:27:48,650:__main__:Warning 17469658565178433733 : The json file returned by Google API doesn't include review key. Will try again 4 
+2018-05-26 11:27:48,758:__main__:Warning 17469658565178433733 : The json file returned by Google API doesn't include review key. Will try again 5 
+2018-05-26 11:27:48,856:__main__:Warning 17469658565178433733 : The json file returned by Google API doesn't include review key. Will try again 6 
+2018-05-26 11:27:48,856:__main__:Warning17469658565178433733 : Can't access the proper json file from server after trying 10 times
+2018-05-26 11:27:48,857:__main__:process 17469658565178433733 failed...
+2018-05-26 11:27:48,857:__main__:Traceback: 
+Traceback (most recent call last):
+  File "Daily_parse.py", line 81, in <module>
+    load_review_data(url,cid,0)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 42, in load_review_data
+    fileJ['result']['reviews']
+KeyError: 'result'
+2018-05-26 11:27:48,857:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:27:49,078:__main__:Load station data 5210416296094386307 successfully
+2018-05-26 11:27:49,174:__main__:Warning 5210416296094386307 : The json file returned by Google API doesn't include review key. Will try again 1 
+2018-05-26 11:27:49,284:__main__:Warning 5210416296094386307 : The json file returned by Google API doesn't include review key. Will try again 2 
+2018-05-26 11:27:49,389:__main__:Warning 5210416296094386307 : The json file returned by Google API doesn't include review key. Will try again 3 
+2018-05-26 11:27:49,486:__main__:Warning 5210416296094386307 : The json file returned by Google API doesn't include review key. Will try again 4 
+2018-05-26 11:27:49,570:__main__:Warning 5210416296094386307 : The json file returned by Google API doesn't include review key. Will try again 5 
+2018-05-26 11:27:49,656:__main__:Warning 5210416296094386307 : The json file returned by Google API doesn't include review key. Will try again 6 
+2018-05-26 11:27:49,657:__main__:Warning5210416296094386307 : Can't access the proper json file from server after trying 10 times
+2018-05-26 11:27:49,657:__main__:process 5210416296094386307 failed...
+2018-05-26 11:27:49,657:__main__:Traceback: 
+Traceback (most recent call last):
+  File "Daily_parse.py", line 81, in <module>
+    load_review_data(url,cid,0)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 42, in load_review_data
+    fileJ['result']['reviews']
+KeyError: 'result'
+2018-05-26 11:27:49,658:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:27:49,887:__main__:Load station data 55899946879897071 successfully
+2018-05-26 11:27:49,988:__main__:Warning 55899946879897071 : The json file returned by Google API doesn't include review key. Will try again 1 
+2018-05-26 11:27:50,078:__main__:Warning 55899946879897071 : The json file returned by Google API doesn't include review key. Will try again 2 
+2018-05-26 11:27:50,171:__main__:Warning 55899946879897071 : The json file returned by Google API doesn't include review key. Will try again 3 
+2018-05-26 11:27:50,280:__main__:Warning 55899946879897071 : The json file returned by Google API doesn't include review key. Will try again 4 
+2018-05-26 11:27:50,383:__main__:Warning 55899946879897071 : The json file returned by Google API doesn't include review key. Will try again 5 
+2018-05-26 11:27:50,490:__main__:Warning 55899946879897071 : The json file returned by Google API doesn't include review key. Will try again 6 
+2018-05-26 11:27:50,490:__main__:Warning55899946879897071 : Can't access the proper json file from server after trying 10 times
+2018-05-26 11:27:50,490:__main__:process 55899946879897071 failed...
+2018-05-26 11:27:50,490:__main__:Traceback: 
+Traceback (most recent call last):
+  File "Daily_parse.py", line 81, in <module>
+    load_review_data(url,cid,0)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 42, in load_review_data
+    fileJ['result']['reviews']
+KeyError: 'result'
+2018-05-26 11:27:50,491:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:27:50,711:__main__:Load station data 12774600043546122111 successfully
+2018-05-26 11:27:50,800:__main__:Warning 12774600043546122111 : The json file returned by Google API doesn't include review key. Will try again 1 
+2018-05-26 11:27:50,899:__main__:Warning 12774600043546122111 : The json file returned by Google API doesn't include review key. Will try again 2 
+2018-05-26 11:27:50,986:__main__:Warning 12774600043546122111 : The json file returned by Google API doesn't include review key. Will try again 3 
+2018-05-26 11:27:51,074:__main__:Warning 12774600043546122111 : The json file returned by Google API doesn't include review key. Will try again 4 
+2018-05-26 11:27:51,169:__main__:Warning 12774600043546122111 : The json file returned by Google API doesn't include review key. Will try again 5 
+2018-05-26 11:27:51,274:__main__:Warning 12774600043546122111 : The json file returned by Google API doesn't include review key. Will try again 6 
+2018-05-26 11:27:51,275:__main__:Warning12774600043546122111 : Can't access the proper json file from server after trying 10 times
+2018-05-26 11:27:51,275:__main__:process 12774600043546122111 failed...
+2018-05-26 11:27:51,275:__main__:Traceback: 
+Traceback (most recent call last):
+  File "Daily_parse.py", line 81, in <module>
+    load_review_data(url,cid,0)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 64, in load_review_data
+    load_review_data(url, cid,times)
+  File "Daily_parse.py", line 42, in load_review_data
+    fileJ['result']['reviews']
+KeyError: 'result'
+2018-05-26 11:27:51,276:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:29:49,780:__main__:Load station data 1885151669715275099 successfully
+2018-05-26 11:29:49,935:__main__:Load review data 1885151669715275099 successfully
+2018-05-26 11:29:49,935:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:29:50,168:__main__:Load station data 14996875053312183120 successfully
+2018-05-26 11:29:50,430:__main__:Load review data 14996875053312183120 successfully
+2018-05-26 11:29:50,430:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:29:50,641:__main__:Load station data 4615954961213230235 successfully
+2018-05-26 11:29:50,778:__main__:Load review data 4615954961213230235 successfully
+2018-05-26 11:29:50,779:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:29:50,988:__main__:Load station data 4356159268129788928 successfully
+2018-05-26 11:29:51,200:__main__:Load review data 4356159268129788928 successfully
+2018-05-26 11:29:51,200:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:29:51,431:__main__:Load station data 7949567729942413552 successfully
+2018-05-26 11:29:51,596:__main__:Load review data 7949567729942413552 successfully
+2018-05-26 11:29:51,598:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:29:51,830:__main__:Load station data 2357732847270267407 successfully
+2018-05-26 11:29:51,984:__main__:Load review data 2357732847270267407 successfully
+2018-05-26 11:29:51,984:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:29:52,112:__main__:Load station data 18118946976997353778 successfully
+2018-05-26 11:29:52,319:__main__:Load review data 18118946976997353778 successfully
+2018-05-26 11:29:52,319:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:29:52,517:__main__:Load station data 4135923137556733311 successfully
+2018-05-26 11:29:52,687:__main__:Load review data 4135923137556733311 successfully
+2018-05-26 11:29:52,687:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:29:52,889:__main__:Load station data 663447381992042734 successfully
+2018-05-26 11:29:53,033:__main__:Load review data 663447381992042734 successfully
+2018-05-26 11:29:53,033:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:29:53,238:__main__:Load station data 1206024629463146237 successfully
+2018-05-26 11:29:53,456:__main__:Load review data 1206024629463146237 successfully
+2018-05-26 11:29:53,456:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:29:53,680:__main__:Load station data 2299039736585879831 successfully
+2018-05-26 11:29:53,939:__main__:Load review data 2299039736585879831 successfully
+2018-05-26 11:29:53,939:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:29:54,195:__main__:Load station data 17469658565178433733 successfully
+2018-05-26 11:29:54,418:__main__:Load review data 17469658565178433733 successfully
+2018-05-26 11:29:54,419:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:29:54,640:__main__:Load station data 5210416296094386307 successfully
+2018-05-26 11:29:54,779:__main__:Load review data 5210416296094386307 successfully
+2018-05-26 11:29:54,780:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:29:55,023:__main__:Load station data 55899946879897071 successfully
+2018-05-26 11:29:55,311:__main__:Load review data 55899946879897071 successfully
+2018-05-26 11:29:55,311:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:29:55,546:__main__:Load station data 12774600043546122111 successfully
+2018-05-26 11:29:55,703:__main__:Load review data 12774600043546122111 successfully
+2018-05-26 11:29:55,704:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:46:16,313:__main__:Load station data 1885151669715275099 successfully
+2018-05-26 11:46:16,467:__main__:Load review data 1885151669715275099 successfully
+2018-05-26 11:46:16,468:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:46:16,684:__main__:Load station data 14996875053312183120 successfully
+2018-05-26 11:46:17,085:__main__:Load review data 14996875053312183120 successfully
+2018-05-26 11:46:17,085:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:46:17,289:__main__:Load station data 4615954961213230235 successfully
+2018-05-26 11:46:17,425:__main__:Load review data 4615954961213230235 successfully
+2018-05-26 11:46:17,425:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-26 11:46:17,651:__main__:Load station data 4356159268129788928 successfully
+2018-05-26 11:46:17,896:__main__:Load review data 4356159268129788928 successfully
+2018-05-26 11:46:17,896:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-28 10:57:48,448:__main__:Load station data 1885151669715275099 successfully
+2018-05-28 10:57:48,737:__main__:Load review data 1885151669715275099 successfully
+2018-05-28 10:57:48,737:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-28 10:57:48,930:__main__:Load station data 14996875053312183120 successfully
+2018-05-28 10:57:49,309:__main__:Load review data 14996875053312183120 successfully
+2018-05-28 10:57:49,309:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-28 10:57:49,492:__main__:Load station data 4615954961213230235 successfully
+2018-05-28 10:57:49,665:__main__:Load review data 4615954961213230235 successfully
+2018-05-28 10:57:49,665:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-28 10:57:49,859:__main__:Load station data 4356159268129788928 successfully
+2018-05-28 10:57:50,075:__main__:Load review data 4356159268129788928 successfully
+2018-05-28 10:57:50,075:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-28 10:57:50,402:__main__:Load station data 7949567729942413552 successfully
+2018-05-28 10:57:50,609:__main__:Load review data 7949567729942413552 successfully
+2018-05-28 10:57:50,609:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-28 10:57:50,885:__main__:Load station data 2357732847270267407 successfully
+2018-05-28 10:57:51,024:__main__:Load review data 2357732847270267407 successfully
+2018-05-28 10:57:51,024:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-28 10:57:51,213:__main__:Load station data 18118946976997353778 successfully
+2018-05-28 10:57:51,398:__main__:Load review data 18118946976997353778 successfully
+2018-05-28 10:57:51,398:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-28 10:57:51,593:__main__:Load station data 4135923137556733311 successfully
+2018-05-28 10:57:51,775:__main__:Load review data 4135923137556733311 successfully
+2018-05-28 10:57:51,775:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-28 10:57:51,968:__main__:Load station data 663447381992042734 successfully
+2018-05-28 10:57:52,109:__main__:Load review data 663447381992042734 successfully
+2018-05-28 10:57:52,109:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-28 10:57:52,323:__main__:Load station data 1206024629463146237 successfully
+2018-05-28 10:57:52,460:__main__:Load review data 1206024629463146237 successfully
+2018-05-28 10:57:52,460:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-28 10:57:52,646:__main__:Load station data 2299039736585879831 successfully
+2018-05-28 10:57:52,769:__main__:Load review data 2299039736585879831 successfully
+2018-05-28 10:57:52,769:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-28 10:57:52,971:__main__:Load station data 17469658565178433733 successfully
+2018-05-28 10:57:53,148:__main__:Load review data 17469658565178433733 successfully
+2018-05-28 10:57:53,148:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-28 10:57:53,336:__main__:Load station data 5210416296094386307 successfully
+2018-05-28 10:57:53,536:__main__:Load review data 5210416296094386307 successfully
+2018-05-28 10:57:53,537:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-28 10:57:53,759:__main__:Load station data 55899946879897071 successfully
+2018-05-28 10:57:53,920:__main__:Load review data 55899946879897071 successfully
+2018-05-28 10:57:53,920:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-05-28 10:57:54,110:__main__:Load station data 12774600043546122111 successfully
+2018-05-28 10:57:54,294:__main__:Load review data 12774600043546122111 successfully
+2018-05-28 10:57:54,294:__main__:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

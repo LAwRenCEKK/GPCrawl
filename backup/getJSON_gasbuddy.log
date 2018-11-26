@@ -1,0 +1,285 @@
+2018-06-01 14:37:40,175:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:37:40,175:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:37:41,692:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:37:41,692:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:37:43,223:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:37:43,223:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:37:44,603:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:37:44,603:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:37:46,154:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:37:46,154:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:37:47,633:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:37:47,633:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:37:49,215:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:37:49,215:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:37:50,749:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:37:50,749:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:37:52,624:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:37:52,624:getJSON_gasbuddy:Json dosen't have the complete information
+2018-06-01 14:37:52,624:getJSON_gasbuddy:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/getJSON_gasbuddy.py", line 37, in get_json
+    result_json['stationInfo']['stationsById'][ID]
+KeyError: '47274'
+2018-06-01 14:37:52,625:getJSON_gasbuddy:The result json doesn't have complete information, trying again 1
+2018-06-01 14:37:53,095:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:37:53,095:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:37:54,454:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:37:54,454:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:37:55,978:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:37:55,978:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:37:57,375:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:37:57,375:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:37:58,757:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:37:58,758:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:38:00,206:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:38:00,206:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:38:01,634:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:38:01,634:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:40:48,527:getJSON_gasbuddy:
+8194
+2018-06-01 14:40:48,527:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:40:48,527:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:40:50,151:getJSON_gasbuddy:
+47271
+2018-06-01 14:40:50,151:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:40:50,151:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:40:51,564:getJSON_gasbuddy:
+47275
+2018-06-01 14:40:51,565:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:40:51,565:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:40:53,147:getJSON_gasbuddy:
+47276
+2018-06-01 14:40:53,148:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:40:53,148:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:40:54,647:getJSON_gasbuddy:
+5532
+2018-06-01 14:40:54,648:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:40:54,648:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:40:56,083:getJSON_gasbuddy:
+82289
+2018-06-01 14:40:56,084:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:40:56,084:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:40:57,474:getJSON_gasbuddy:
+3173
+2018-06-01 14:40:57,475:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:40:57,475:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:40:58,835:getJSON_gasbuddy:
+71708
+2018-06-01 14:40:58,835:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:40:58,835:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:41:00,229:getJSON_gasbuddy:
+47274
+2018-06-01 14:41:00,230:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:41:00,230:getJSON_gasbuddy:Json dosen't have the complete information
+2018-06-01 14:41:00,230:getJSON_gasbuddy:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/getJSON_gasbuddy.py", line 39, in get_json
+    result_json['stationInfo']['stationsById'][ID]
+KeyError: '47274'
+2018-06-01 14:41:00,230:getJSON_gasbuddy:The result json doesn't have complete information, trying again 1
+2018-06-01 14:41:00,862:getJSON_gasbuddy:
+47274
+2018-06-01 14:41:00,863:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:41:00,863:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:41:02,518:getJSON_gasbuddy:
+19190
+2018-06-01 14:41:02,519:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:41:02,519:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:41:03,924:getJSON_gasbuddy:
+11461
+2018-06-01 14:41:03,925:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:41:03,925:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:41:05,513:getJSON_gasbuddy:
+70209
+2018-06-01 14:41:05,513:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:41:05,513:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:41:07,097:getJSON_gasbuddy:
+3521
+2018-06-01 14:41:07,097:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:41:07,097:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:41:08,407:getJSON_gasbuddy:
+47267
+2018-06-01 14:41:08,407:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:41:08,407:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:41:10,126:getJSON_gasbuddy:
+81514
+2018-06-01 14:41:10,126:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:41:10,126:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:43:21,818:getJSON_gasbuddy:8194~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:43:22,202:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:43:22,203:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:43:23,233:getJSON_gasbuddy:47271~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:43:23,749:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:43:23,749:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:43:24,763:getJSON_gasbuddy:47275~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:43:25,292:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:43:25,292:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:43:26,319:getJSON_gasbuddy:47276~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:43:26,818:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:43:26,819:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:43:27,838:getJSON_gasbuddy:5532~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:43:28,706:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:43:28,706:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:43:29,725:getJSON_gasbuddy:82289~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:43:30,203:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:43:30,203:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:43:31,220:getJSON_gasbuddy:3173~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:43:31,657:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:43:31,657:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:43:32,677:getJSON_gasbuddy:71708~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:43:32,992:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:43:32,992:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:43:34,035:getJSON_gasbuddy:47274~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:43:34,438:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:43:34,439:getJSON_gasbuddy:Json dosen't have the complete information
+2018-06-01 14:43:34,439:getJSON_gasbuddy:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/getJSON_gasbuddy.py", line 38, in get_json
+    result_json['stationInfo']['stationsById'][ID]
+KeyError: '47274'
+2018-06-01 14:43:34,440:getJSON_gasbuddy:The result json doesn't have complete information, trying again 1
+2018-06-01 14:43:34,440:getJSON_gasbuddy:47274~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:43:34,965:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:43:34,965:getJSON_gasbuddy:Json dosen't have the complete information
+2018-06-01 14:43:34,965:getJSON_gasbuddy:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/getJSON_gasbuddy.py", line 38, in get_json
+    result_json['stationInfo']['stationsById'][ID]
+KeyError: '47274'
+2018-06-01 14:43:34,966:getJSON_gasbuddy:The result json doesn't have complete information, trying again 2
+2018-06-01 14:43:34,966:getJSON_gasbuddy:47274~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:43:35,223:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:43:35,223:getJSON_gasbuddy:Json dosen't have the complete information
+2018-06-01 14:43:35,223:getJSON_gasbuddy:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/getJSON_gasbuddy.py", line 38, in get_json
+    result_json['stationInfo']['stationsById'][ID]
+KeyError: '47274'
+2018-06-01 14:43:35,223:getJSON_gasbuddy:The result json doesn't have complete information, trying again 3
+2018-06-01 14:43:35,223:getJSON_gasbuddy:47274~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:43:35,559:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:43:35,559:getJSON_gasbuddy:Json dosen't have the complete information
+2018-06-01 14:43:35,559:getJSON_gasbuddy:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/getJSON_gasbuddy.py", line 38, in get_json
+    result_json['stationInfo']['stationsById'][ID]
+KeyError: '47274'
+2018-06-01 14:43:35,560:getJSON_gasbuddy:The result json doesn't have complete information, trying again 4
+2018-06-01 14:43:35,560:getJSON_gasbuddy:47274~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:43:35,768:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:43:35,769:getJSON_gasbuddy:Json dosen't have the complete information
+2018-06-01 14:43:35,769:getJSON_gasbuddy:Traceback: 
+Traceback (most recent call last):
+  File "/home/liu433/Project_lawrence_v1/getJSON_gasbuddy.py", line 38, in get_json
+    result_json['stationInfo']['stationsById'][ID]
+KeyError: '47274'
+2018-06-01 14:43:35,769:getJSON_gasbuddy:something else is wrong please check
+2018-06-01 14:43:36,777:getJSON_gasbuddy:19190~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:43:37,140:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:43:37,141:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:43:38,158:getJSON_gasbuddy:11461~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:43:38,556:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:43:38,556:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:43:39,576:getJSON_gasbuddy:70209~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:43:40,033:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:43:40,034:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:43:41,119:getJSON_gasbuddy:3521~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:43:41,729:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:43:41,729:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:43:42,742:getJSON_gasbuddy:47267~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:43:43,175:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:43:43,176:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:43:44,199:getJSON_gasbuddy:81514~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:43:44,906:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:43:44,906:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:50:57,432:getJSON_gasbuddy:8194~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:50:57,858:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:50:57,858:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:50:58,896:getJSON_gasbuddy:47271~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:50:59,294:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:50:59,295:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:51:00,382:getJSON_gasbuddy:47275~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:51:00,924:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:51:00,924:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:51:01,969:getJSON_gasbuddy:47276~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:51:02,265:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:51:02,265:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:51:03,316:getJSON_gasbuddy:5532~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:51:03,653:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:51:03,653:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:51:04,716:getJSON_gasbuddy:82289~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:51:05,082:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:51:05,083:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:51:06,111:getJSON_gasbuddy:3173~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:51:06,499:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:51:06,499:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:51:07,570:getJSON_gasbuddy:71708~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:51:08,029:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:51:08,029:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:51:09,069:getJSON_gasbuddy:47274~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:51:09,630:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:51:09,631:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:51:10,693:getJSON_gasbuddy:19190~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:51:11,070:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:51:11,070:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:51:12,118:getJSON_gasbuddy:11461~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:51:12,532:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:51:12,533:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:51:13,596:getJSON_gasbuddy:70209~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:51:14,125:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:51:14,126:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:51:15,155:getJSON_gasbuddy:3521~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:51:15,858:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:51:15,858:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:51:16,883:getJSON_gasbuddy:47267~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:51:17,630:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:51:17,631:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:51:18,658:getJSON_gasbuddy:81514~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:51:19,096:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:51:19,096:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:54:38,565:getJSON_gasbuddy:8194~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:54:38,862:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:54:38,862:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:54:40,193:getJSON_gasbuddy:47271~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:54:40,574:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:54:40,574:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:54:41,602:getJSON_gasbuddy:47275~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:54:42,047:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:54:42,047:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:54:43,087:getJSON_gasbuddy:47276~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:54:43,464:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:54:43,465:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:54:44,490:getJSON_gasbuddy:5532~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:54:44,956:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:54:44,956:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:54:45,988:getJSON_gasbuddy:82289~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:54:46,343:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:54:46,344:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:54:47,374:getJSON_gasbuddy:3173~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:54:47,929:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:54:47,930:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:54:48,982:getJSON_gasbuddy:71708~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:54:49,425:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:54:49,425:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:54:50,457:getJSON_gasbuddy:47274~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:54:51,078:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:54:51,078:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:54:52,115:getJSON_gasbuddy:19190~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:54:52,645:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:54:52,645:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:54:53,660:getJSON_gasbuddy:11461~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:54:54,039:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:54:54,039:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:54:55,062:getJSON_gasbuddy:70209~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:54:55,437:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:54:55,437:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:54:56,465:getJSON_gasbuddy:3521~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:54:56,775:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:54:56,775:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:54:57,806:getJSON_gasbuddy:47267~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:54:58,107:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:54:58,107:getJSON_gasbuddy:Json has the complete information
+2018-06-01 14:54:59,136:getJSON_gasbuddy:81514~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-06-01 14:54:59,476:getJSON_gasbuddy:Checking: the correctness of the result json
+2018-06-01 14:54:59,477:getJSON_gasbuddy:Json has the complete information
